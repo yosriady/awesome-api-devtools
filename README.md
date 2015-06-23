@@ -7,6 +7,7 @@ This is a collection of useful resources for building RESTful HTTP+JSON APIs.
 ## Contents
 
 *  [API Development Tools](#api-development-tools)
+*  [API Client Library Tools](#api-client-library-tools)
 *  [API Documentation](#api-documentation)
 *  [API Design Guides](#api-design-guides)
 *  [API Testing](#api-testing)
@@ -19,6 +20,10 @@ This is a collection of useful resources for building RESTful HTTP+JSON APIs.
 - [grape](https://github.com/intridea/grape)
 - [hapi.js](http://hapijs.com/)
 
+### API Client Library Tools
+- [blanket](https://github.com/inf0rmer/blanket). A Ruby API wrapper.
+- [nestful](https://github.com/maccman/nestful). Ruby HTTP/REST client.
+
 ### API Documentation
 - [Swagger UI](https://github.com/swagger-api/swagger-ui): Dynamically generate documentation from a Swagger-compliant API.
 - [Slate](https://github.com/tripit/slate): Static site generated documentation for your API.
@@ -29,6 +34,7 @@ This is a collection of useful resources for building RESTful HTTP+JSON APIs.
 - [Heroku HTTP API Design Guide](https://github.com/interagent/http-api-design)
 
 ### API Testing
+- [Postman](https://www.getpostman.com/): Desktop API testing tool.
 - [MockBin](https://mockbin.com/): Generate mock HTTP endpoints.
 
 ### API Publishing
