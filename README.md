@@ -42,6 +42,8 @@ Contributions are most welcome!
 - [Swagger UI](https://github.com/swagger-api/swagger-ui): Dynamically generate documentation from a Swagger-compliant API.
 - [Slate](https://github.com/tripit/slate): Static site generated documentation for your API.
 - [Aglio](https://github.com/danielgtaylor/aglio): An API Blueprint renderer with theme support that outputs static HTML.
+- [Apiary](https://apiary.io/): Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
+- [Readme](http://readme.io/): API Documentation Hosting.
 - [Embed curl](https://www.embedcurl.com/): Embeddable curl commands on the web.
 
 ## API Design Guides
