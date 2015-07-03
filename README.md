@@ -50,6 +50,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 ### Javascript
 - [hapi.js](http://hapijs.com/): Web and services application framework for Node.js.
 - [node-restify](https://github.com/restify/node-restify): Node.js REST framework specifically meant for web service APIs.
+- [expressjs](http://expressjs.com/): Fast, unopinionated, minimalist web framework for Node.js.
+- [sailsjs](http://sailsjs.org/): Realtime MVC Framework for Node.js.
 
 ### Go
 - [Go-Json-Rest](https://github.com/ant0ine/go-json-rest)
