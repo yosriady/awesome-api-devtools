@@ -93,6 +93,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## API Infrastructure
 - [Kong](https://github.com/Mashape/kong): Open source API Gateway/Middleware layer.
+- [API Umbrella](http://apiumbrella.io/):  Proxy that sits in front of your APIs.
 
 ## API Monitoring
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
