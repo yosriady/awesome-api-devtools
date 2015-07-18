@@ -59,6 +59,9 @@ Contributions are most welcome. Categories are also open to suggestions!
 ### Postgres
 - [PostgREST](https://github.com/begriffs/postgrest): Serve a RESTful API from any existing PostgreSQL database.
 
+### PHP
+- [API Platform](https://github.com/dunglas/api-platform): API framework on top of Symfony with JSON-LD, Schema.org and Hydra support
+
 ## API Client Library Tools
 ### General
 - [Swagger CodeGen](https://github.com/swagger-api/swagger-codegen): Generate client libraries automatically from a Swagger-compliant server.
