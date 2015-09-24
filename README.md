@@ -105,6 +105,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Apigee127](https://github.com/apigee-127/a127-documentation/wiki/What-is-Apigee-127): nodejs based API Gateway
 - [Pushpin](http://pushpin.org): Proxy for both request/response or streaming (long poll) of responses
 - [Strongloop](https://github.com/strongloop/loopback-gateway): nodejs based API Gateway
+- [Fusio](http://www.fusio-project.org/): PHP based open source API management platform
 
 ## API Monitoring
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
