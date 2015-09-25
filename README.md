@@ -82,6 +82,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## API Testing
 - [Postman](https://www.getpostman.com/): Desktop API testing tool.
+- [Paw](https://luckymarmot.com/paw): REST client for Mac.
+- [Insomnia REST Client](http://insomnia.rest/): REST client Chrome app.
 - [MockBin](https://mockbin.com/): Generate mock HTTP endpoints.
 - [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
 - [RequestBin](http://requestb.in/): Inspect and debug webhook POST requests.
