@@ -92,7 +92,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Design Guides
 - [PayPal API Style Guide](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
 - [Heroku Platform HTTP API Design Guide](https://github.com/interagent/http-api-design)
-- [Haufe API Style Guide] (http://haufe-lexware.github.io/api-style-guide/)
+- [Haufe API Style Guide](http://haufe-lexware.github.io/api-style-guide/)
 
 ## API Publishing
 - [Mashape](mashape.com): API Marketplace.
@@ -101,7 +101,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Kong](https://github.com/Mashape/kong): Open source API Gateway/Middleware layer.
 - [API Umbrella](http://apiumbrella.io/):  Proxy that sits in front of your APIs.
 - [APIAxle](https://github.com/apiaxle/apiaxle/): Proxy that sits in front of your APIs.
-- [APIGrove](http://apigrove.github.io/apigrove/): API manager built in Java on top of Fuse ESB. 
+- [APIGrove](http://apigrove.github.io/apigrove/): API manager built in Java on top of Fuse ESB.
 - [APIUmbrella](https://github.com/NREL/api-umbrella):  API management platform
 - [Tyk](http://tyk.io): API Mgmt Proxy in Go
 - [Apigee127](https://github.com/apigee-127/a127-documentation/wiki/What-is-Apigee-127): nodejs based API Gateway
@@ -111,6 +111,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## API Monitoring
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
+- [Galileo](https://www.apianalytics.com/): API Monitoring Platform.
 
 ## JSON Format Standards
 - [HAL](http://stateless.co/hal_specification.html)
