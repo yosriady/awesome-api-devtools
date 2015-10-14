@@ -30,7 +30,9 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## API Specification Tools
 - [Swagger Editor](http://editor.swagger.io/#/): An editor for designing Swagger specifications.
+- [API Studio](http://apistudio.io/). Write, mock, and share your Swagger specifications online.
 - [Dredd](https://github.com/apiaryio/dredd): Validate API documentation written in API Blueprint against its backend implementation.
+- [API TRANSFORMER](https://apitransformer.com/): Transform API Descriptions from/to various formats e.g., Swagger, API Blueprint, RAML, WADL, Google Discovery, I/O Docs.
 
 ## API Development Tools
 ### Ruby
@@ -99,6 +101,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## API Infrastructure
 - [Kong](https://github.com/Mashape/kong): Open source API Gateway/Middleware layer.
+- [Amazon API Gateway](https://aws.amazon.com/api-gateway/). Traffic management, authorization and access control, monitoring, and API version management.
 - [API Umbrella](http://apiumbrella.io/):  Proxy that sits in front of your APIs.
 - [APIAxle](https://github.com/apiaxle/apiaxle/): Proxy that sits in front of your APIs.
 - [APIGrove](http://apigrove.github.io/apigrove/): API manager built in Java on top of Fuse ESB.
