@@ -32,7 +32,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Swagger Editor](http://editor.swagger.io/#/): An editor for designing Swagger specifications.
 - [API Studio](http://apistudio.io/). Write, mock, and share your Swagger specifications online.
 - [Dredd](https://github.com/apiaryio/dredd): Validate API documentation written in API Blueprint against its backend implementation.
-- [API TRANSFORMER](https://apitransformer.com/): Transform API Descriptions from/to various formats e.g., Swagger, API Blueprint, RAML, WADL, Google Discovery, I/O Docs.
+- [APITransformer](https://apitransformer.com/): Transform API Descriptions from/to various formats e.g., Swagger, API Blueprint, RAML, WADL, Google Discovery, I/O Docs.
 
 ## API Development Tools
 ### Ruby
@@ -81,6 +81,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Apiary](https://apiary.io/): Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
 - [Readme](http://readme.io/): API Documentation Hosting.
 - [Embed curl](https://www.embedcurl.com/): Embeddable curl commands on the web.
+- [Gelato](https://gelato.io/): Create developer portals for your API.
 
 ## API Testing
 - [Postman](https://www.getpostman.com/): Desktop API testing tool.
