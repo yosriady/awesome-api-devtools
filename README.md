@@ -10,17 +10,17 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 *  [API Specification Languages](#api-specification-languages)
 *  [API Specification Tools](#api-specification-tools)
-*  [API Development Tools](#api-development-tools)
+*  [API Frameworks](#api-frameworks)
 *  [API Client Library Tools](#api-client-library-tools)
 *  [API Documentation](#api-documentation)
 *  [API Testing](#api-testing)
 *  [API Design Guides](#api-design-guides)
 *  [API Publishing](#api-publishing)
-*  [API Infrastructure](#api-infrastructure)
+*  [API Gateways](#api-gateways)
 *  [API Monitoring](#api-monitoring)
 *  [JSON Format Standards](#json-format-standards)
-*  [REST Learning Resources](#rest-learning-resources)
-*  [Miscellaneous](#miscellaneous)
+*  [Learning Resources](#learning-resources)
+*  [References](#references)
 
 ## API Specification Languages
 - [API Blueprint](https://github.com/apiaryio/api-blueprint)
@@ -34,7 +34,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Dredd](https://github.com/apiaryio/dredd): Validate API documentation written in API Blueprint against its backend implementation.
 - [APITransformer](https://apitransformer.com/): Transform API Descriptions from/to various formats e.g., Swagger, API Blueprint, RAML, WADL, Google Discovery, I/O Docs.
 
-## API Development Tools
+## API Frameworks
 ### Ruby
 - [rails-api](https://github.com/rails-api/rails-api): Rails for API only applications.
 - [pliny](https://github.com/interagent/pliny): Opinionated template Sinatra app for writing APIs in Ruby.
@@ -51,12 +51,43 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Javascript
 - [hapi.js](http://hapijs.com/): Web and services application framework for Node.js.
-- [node-restify](https://github.com/restify/node-restify): Node.js REST framework specifically meant for web service APIs.
-- [expressjs](http://expressjs.com/): Fast, unopinionated, minimalist web framework for Node.js.
+- [Restify](https://github.com/restify/node-restify): Node.js REST framework specifically meant for web service APIs.
+- [Express](http://expressjs.com/): Fast, unopinionated, minimalist web framework for Node.js.
 - [sailsjs](http://sailsjs.org/): Realtime MVC Framework for Node.js.
+- [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
+- [Baucis](https://github.com/wprl/baucis) - To build
+- [Koa](http://koajs.com/) - Next generation web framework for Node.js
+- [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
+- [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
+
 
 ### Go
 - [Go-Json-Rest](https://github.com/ant0ine/go-json-rest)
+
+### Scala
+
+- [Colossus](https://github.com/tumblr/colossus) - I/O and microservice library for Scala.
+- [Finatra](http://twitter.github.io/finatra/) - Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
+- [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
+- [Scalatra](http://www.scalatra.org/) - Simple, accessible and free web micro-framework.
+- [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - Micro-web framework to build servlet applications in Scala.
+- [Spray](http://spray.io/) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
+
+### Haskell
+
+- [Scotty](https://github.com/scotty-web/scotty) - Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
+- [Yesod](https://github.com/yesodweb/yesod) - The Haskell RESTful web framework.
+
+### Elixir
+
+- [Phoenix](http://www.phoenixframework.org/) - Framework for building HTML5 apps, API backends and distributed systems.
+- [Plug](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules between web applications.
+
+### Erlang
+
+- [Cowboy](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
+- [Gen Microservice](https://github.com/videlalvaro/gen_microservice) - This library solves the problem of implementing microservices with Erlang.
+- [Mochiweb](https://github.com/mochi/mochiweb) - Erlang library for building lightweight HTTP servers.
 
 ### Postgres
 - [PostgREST](https://github.com/begriffs/postgrest): Serve a RESTful API from any existing PostgreSQL database.
@@ -100,18 +131,24 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Publishing
 - [Mashape](mashape.com): API Marketplace.
 
-## API Infrastructure
-- [Kong](https://github.com/Mashape/kong): Open source API Gateway/Middleware layer.
-- [Amazon API Gateway](https://aws.amazon.com/api-gateway/). Traffic management, authorization and access control, monitoring, and API version management.
+## API Gateways
+- [AWS API Gateway](https://aws.amazon.com/api-gateway/). Traffic management, authorization and access control, monitoring, and API version management.
 - [API Umbrella](http://apiumbrella.io/):  Proxy that sits in front of your APIs.
 - [APIAxle](https://github.com/apiaxle/apiaxle/): Proxy that sits in front of your APIs.
 - [APIGrove](http://apigrove.github.io/apigrove/): API manager built in Java on top of Fuse ESB.
 - [APIUmbrella](https://github.com/NREL/api-umbrella):  API management platform
-- [Tyk](http://tyk.io): API Mgmt Proxy in Go
 - [Apigee127](https://github.com/apigee-127/a127-documentation/wiki/What-is-Apigee-127): nodejs based API Gateway
 - [Pushpin](http://pushpin.org): Proxy for both request/response or streaming (long poll) of responses
 - [Strongloop](https://github.com/strongloop/loopback-gateway): nodejs based API Gateway
 - [Fusio](http://www.fusio-project.org/): PHP based open source API management platform
+- [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
+- [HAProxy](http://www.haproxy.org/) - Reliable, high Performance TCP/HTTP load balancer.
+- [OpenResty](http://openresty.org/) - Fast web application server built on top of Nginx.
+- [Tengine](http://tengine.taobao.org/) - A distribution of Nginx with some advanced features.
+- [Tyk](https://tyk.io/) - Open-source, fast and scalable API gateway, portal and API management platform.
+- [Vulcand](https://github.com/mailgun/vulcand) - Programmatic load balancer backed by Etcd.
+- [Zuul](https://github.com/Netflix/zuul) - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
+
 
 ## API Monitoring
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
@@ -121,13 +158,14 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [HAL](http://stateless.co/hal_specification.html)
 - [JSONAPI](http://jsonapi.org/faq/)
 
-## REST Learning Resources
+## Learning Resources
+- [Choosing an HTTP Status Code](http://racksburg.com/choosing-an-http-status-code/)
 - [REST in Practice](http://shop.oreilly.com/product/9780596805838.do)
 - [Roy Fielding's dissertation on REST](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 - [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - [How to Design a REST API](http://blog.octo.com/en/design-a-rest-api/)
 
-## Miscellaneous
+## References
 - [HTTP Status Codes Reference](http://httpstatus.es/)
 
 ## Contributing
