@@ -42,6 +42,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [ActiveModel::Serializer](https://github.com/rails-api/active_model_serializers): Brings convention over configuration to your JSON generation.
 - [rabl](https://github.com/nesquena/rabl): Generate JSON and XML from any ruby object.
 - [jbuilder](https://github.com/rails/jbuilder): Create JSON structures via a Builder-style DSL.
+- [roar](https://github.com/apotonick/roar): Parse and render REST API documents using representers.
 
 ### Python
 - [Django REST framework](http://www.django-rest-framework.org/): Toolkit that makes it easy to build Web APIs.
