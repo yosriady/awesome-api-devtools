@@ -153,6 +153,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Monitoring
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
 - [Galileo](https://www.apianalytics.com/): API Monitoring Platform.
+- [Ping-API](https://ping-api.com/): Automated API Testing.
 
 ## JSON Format Standards
 - [HAL](http://stateless.co/hal_specification.html)
