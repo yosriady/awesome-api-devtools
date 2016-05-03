@@ -129,7 +129,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Haufe API Style Guide](http://haufe-lexware.github.io/api-style-guide/)
 
 ## API Publishing
-- [Mashape](mashape.com): API Marketplace.
+- [Mashape](https://www.mashape.com/): API Marketplace.
 
 ## API Gateways
 - [AWS API Gateway](https://aws.amazon.com/api-gateway/). Traffic management, authorization and access control, monitoring, and API version management.
@@ -148,11 +148,13 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Tyk](https://tyk.io/) - Open-source, fast and scalable API gateway, portal and API management platform.
 - [Vulcand](https://github.com/mailgun/vulcand) - Programmatic load balancer backed by Etcd.
 - [Zuul](https://github.com/Netflix/zuul) - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
+- [Kong](https://getkong.org/) - An open-source management layer for APIs, delivering high performance and reliability.
 
 
 ## API Monitoring
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
 - [Galileo](https://www.apianalytics.com/): API Monitoring Platform.
+- [Ping-API](https://ping-api.com/): Automated API Testing.
 
 ## JSON Format Standards
 - [HAL](http://stateless.co/hal_specification.html)
