@@ -164,6 +164,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Roy Fielding's dissertation on REST](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 - [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - [How to Design a REST API](http://blog.octo.com/en/design-a-rest-api/)
+- [Automated API Development](http://yosriady.com/2016/04/27/automated-api-development/)
 
 ## References
 - [HTTP Status Codes Reference](http://httpstatus.es/)
