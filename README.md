@@ -48,6 +48,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Tastypie](https://github.com/django-tastypie/django-tastypie): Webservice API framework for Django.
 - [restless](https://github.com/toastdriven/restless): A lightweight REST miniframework for Python.
 - [flask-restful](https://github.com/flask-restful/flask-restful): Simple framework for creating REST APIs.
+- [Falcon](https://github.com/falconry/falcon): Falcon is a low-level, high-performance Python framework for building HTTP APIs, app backends, and higher-level frameworks.
 
 ### Javascript
 - [hapi.js](http://hapijs.com/): Web and services application framework for Node.js.
