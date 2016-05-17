@@ -114,6 +114,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Readme](http://readme.io/): API Documentation Hosting.
 - [Embed curl](https://www.embedcurl.com/): Embeddable curl commands on the web.
 - [Gelato](https://gelato.io/): Create developer portals for your API.
+- [API Docs](http://api-docs.io/): Hosted public API documentation for OAS (Swagger) and RAML specs.
+
 
 ## API Testing
 - [Postman](https://www.getpostman.com/): Desktop API testing tool.
