@@ -171,6 +171,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - [How to Design a REST API](http://blog.octo.com/en/design-a-rest-api/)
 - [Automated API Development](http://yosriady.com/2016/04/27/automated-api-development/)
+- [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 
 ## References
 - [HTTP Status Codes Reference](http://httpstatus.es/)
