@@ -106,6 +106,9 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [blanket](https://github.com/inf0rmer/blanket): A Ruby API wrapper.
 - [nestful](https://github.com/maccman/nestful): Ruby HTTP/REST client.
 
+### Java
+- [Retrofit](http://square.github.io/retrofit/): A type-safe HTTP client for Android and Java.
+
 ## API Documentation
 - [Swagger UI](https://github.com/swagger-api/swagger-ui): Dynamically generate documentation from a Swagger-compliant API.
 - [Slate](https://github.com/tripit/slate): Static site generated documentation for your API.
