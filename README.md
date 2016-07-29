@@ -37,6 +37,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## API Specifications
 - [APIS.guru](https://github.com/APIs-guru/api-models): Directory of API specs in OpenAPI(aka Swagger) 2.0 format.
+- [AnyAPI](https://any-api.com/):  Documentation and Test Consoles for Public APIs.
 
 ## API Frameworks
 ### Ruby
