@@ -10,6 +10,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 *  [API Specification Languages](#api-specification-languages)
 *  [API Specification Tools](#api-specification-tools)
+*  [API Specifications](#api-specifications)
 *  [API Frameworks](#api-frameworks)
 *  [API Client Library Tools](#api-client-library-tools)
 *  [API Documentation](#api-documentation)
@@ -67,7 +68,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
 - [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
 
-
 ### Go
 - [Go-Json-Rest](https://github.com/ant0ine/go-json-rest)
 
@@ -105,6 +105,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Client Library Tools
 ### General
 - [Swagger CodeGen](https://github.com/swagger-api/swagger-codegen): Generate client libraries automatically from a Swagger-compliant server.
+- [sdks.io](https://sdks.io/): Explore Automatically Generated SDKs.
 
 ### Ruby
 - [heroics](https://github.com/interagent/heroics): Ruby HTTP client for APIs represented with JSON schema.
