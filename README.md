@@ -35,6 +35,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Dredd](https://github.com/apiaryio/dredd): Validate API documentation written in API Blueprint against its backend implementation.
 - [APITransformer](https://apitransformer.com/): Transform API Descriptions from/to various formats e.g., Swagger, API Blueprint, RAML, WADL, Google Discovery, I/O Docs.
 - [Restlet Studio](https://restlet.com/products/restlet-studio/): Web IDE for API Design.
+- [API Spec Converter](https://lucybot.github.io/api-spec-converter/): Convert between different API spec formats.
 
 ## API Specifications
 - [APIS.guru](https://github.com/APIs-guru/api-models): Directory of API specs in OpenAPI(aka Swagger) 2.0 format.
