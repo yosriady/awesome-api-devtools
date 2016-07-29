@@ -35,6 +35,9 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [APITransformer](https://apitransformer.com/): Transform API Descriptions from/to various formats e.g., Swagger, API Blueprint, RAML, WADL, Google Discovery, I/O Docs.
 - [Restlet Studio](https://restlet.com/products/restlet-studio/): Web IDE for API Design.
 
+## API Specifications
+- [APIS.guru](https://github.com/APIs-guru/api-models): Directory of API specs in OpenAPI(aka Swagger) 2.0 format.
+
 ## API Frameworks
 ### Ruby
 - [rails-api](https://github.com/rails-api/rails-api): Rails for API only applications.
