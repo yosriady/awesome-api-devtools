@@ -174,6 +174,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## JSON Format Standards
 - [HAL](http://stateless.co/hal_specification.html)
 - [JSONAPI](http://jsonapi.org/faq/)
+- [JSON Schema](http://json-schema.org/)
 
 ## Learning Resources
 - [Choosing an HTTP Status Code](http://racksburg.com/choosing-an-http-status-code/)
