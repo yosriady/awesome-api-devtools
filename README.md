@@ -87,6 +87,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ### Java
 
 - [Rest.li](http://rest.li/): REST framework using type-safe bindings and asynchronous, non-blocking IO.
+- [Dropwizard](http://www.dropwizard.io/1.0.0/docs/): Framework for developing ops-friendly, high-performance, RESTful web services.
 
 ### Haskell
 
