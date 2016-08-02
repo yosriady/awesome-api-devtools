@@ -84,6 +84,10 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Skinny Micro](https://github.com/skinny-framework/skinny-micro): Micro-web framework to build servlet applications in Scala.
 - [Spray](http://spray.io/): Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
 
+### Java
+
+- [Rest.li](http://rest.li/): REST framework using type-safe bindings and asynchronous, non-blocking IO.
+
 ### Haskell
 
 - [Scotty](https://github.com/scotty-web/scotty): Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
