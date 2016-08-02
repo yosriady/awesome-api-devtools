@@ -65,39 +65,40 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Restify](https://github.com/restify/node-restify): Node.js REST framework specifically meant for web service APIs.
 - [Express](http://expressjs.com/): Fast, unopinionated, minimalist web framework for Node.js.
 - [sailsjs](http://sailsjs.org/): Realtime MVC Framework for Node.js.
-- [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
-- [Baucis](https://github.com/wprl/baucis) - To build
-- [Koa](http://koajs.com/) - Next generation web framework for Node.js
-- [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
-- [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
+- [Actionhero](http://www.actionherojs.com/): Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
+- [Baucis](https://github.com/wprl/baucis): To build
+- [Koa](http://koajs.com/): Next generation web framework for Node.js
+- [Loopback](http://loopback.io/): Node.js framework for creating APIs and easily connecting to backend data sources.
+- [Seneca](http://senecajs.org/): A microservices toolkit for Node.js.
+- [Feathers](http://feathersjs.com/): Build RESTful and real-time APIs through Socket.io or Primus.
 
 ### Go
 - [Go-Json-Rest](https://github.com/ant0ine/go-json-rest)
 
 ### Scala
 
-- [Colossus](https://github.com/tumblr/colossus) - I/O and microservice library for Scala.
-- [Finatra](http://twitter.github.io/finatra/) - Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
-- [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
-- [Scalatra](http://www.scalatra.org/) - Simple, accessible and free web micro-framework.
-- [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - Micro-web framework to build servlet applications in Scala.
-- [Spray](http://spray.io/) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
+- [Colossus](https://github.com/tumblr/colossus): I/O and microservice library for Scala.
+- [Finatra](http://twitter.github.io/finatra/): Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
+- [Play](https://www.playframework.com/): The high velocity web framework for Java and Scala.
+- [Scalatra](http://www.scalatra.org/): Simple, accessible and free web micro-framework.
+- [Skinny Micro](https://github.com/skinny-framework/skinny-micro): Micro-web framework to build servlet applications in Scala.
+- [Spray](http://spray.io/): Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
 
 ### Haskell
 
-- [Scotty](https://github.com/scotty-web/scotty) - Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
-- [Yesod](https://github.com/yesodweb/yesod) - The Haskell RESTful web framework.
+- [Scotty](https://github.com/scotty-web/scotty): Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
+- [Yesod](https://github.com/yesodweb/yesod): The Haskell RESTful web framework.
 
 ### Elixir
 
-- [Phoenix](http://www.phoenixframework.org/) - Framework for building HTML5 apps, API backends and distributed systems.
-- [Plug](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules between web applications.
+- [Phoenix](http://www.phoenixframework.org/): Framework for building HTML5 apps, API backends and distributed systems.
+- [Plug](https://github.com/elixir-lang/plug): A specification and conveniences for composable modules between web applications.
 
 ### Erlang
 
-- [Cowboy](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
-- [Gen Microservice](https://github.com/videlalvaro/gen_microservice) - This library solves the problem of implementing microservices with Erlang.
-- [Mochiweb](https://github.com/mochi/mochiweb) - Erlang library for building lightweight HTTP servers.
+- [Cowboy](https://github.com/ninenines/cowboy): Small, fast, modular HTTP server written in Erlang.
+- [Gen Microservice](https://github.com/videlalvaro/gen_microservice): This library solves the problem of implementing microservices with Erlang.
+- [Mochiweb](https://github.com/mochi/mochiweb): Erlang library for building lightweight HTTP servers.
 
 ### Postgres
 - [PostgREST](https://github.com/begriffs/postgrest): Serve a RESTful API from any existing PostgreSQL database.
