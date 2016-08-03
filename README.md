@@ -112,6 +112,9 @@ Contributions are most welcome. Categories are also open to suggestions!
 ### PHP
 - [API Platform](https://github.com/dunglas/api-platform): API framework on top of Symfony with JSON-LD, Schema.org and Hydra support
 
+### Miscellaneous
+- [Dream Factory](https://github.com/dreamfactorysoftware/dreamfactory): Turn any database into an API platform.
+
 ## API Client Library Tools
 ### General
 - [Swagger CodeGen](https://github.com/swagger-api/swagger-codegen): Generate client libraries automatically from a Swagger-compliant server.
@@ -150,6 +153,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [PayPal API Style Guide](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
 - [Heroku Platform HTTP API Design Guide](https://github.com/interagent/http-api-design)
 - [Haufe API Style Guide](http://haufe-lexware.github.io/api-style-guide/)
+- [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 
 ## API Publishing
 - [Mashape](https://www.mashape.com/): API Marketplace.
@@ -191,7 +195,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - [How to Design a REST API](http://blog.octo.com/en/design-a-rest-api/)
 - [Automated API Development](http://yosriady.com/2016/04/27/automated-api-development/)
-- [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 
 ## Blogs
 - [API Evangelist](http://apievangelist.com/blog/)
