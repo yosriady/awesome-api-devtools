@@ -32,6 +32,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## API Specification Tools
 - [Swagger Editor](http://editor.swagger.io/#/): An editor for designing Swagger specifications.
+- [Swagger Tools and Integrations](http://swagger.io/open-source-integrations/): A list of libraries and frameworks serving the Swagger ecosystem.
+- [OpenAPI Spec Tooling](http://definitions.apievangelist.com/openapi-spec/tooling/):  A list of libraries and frameworks serving the OpenAPI ecosystem.
 - [API Studio](http://apistudio.io/). Write, mock, and share your Swagger specifications online.
 - [Dredd](https://github.com/apiaryio/dredd): Validate API documentation written in API Blueprint against its backend implementation.
 - [APITransformer](https://apitransformer.com/): Transform API Descriptions from/to various formats e.g., Swagger, API Blueprint, RAML, WADL, Google Discovery, I/O Docs.
