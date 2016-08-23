@@ -198,6 +198,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - [How to Design a REST API](http://blog.octo.com/en/design-a-rest-api/)
 - [Automated API Development](http://yosriady.com/2016/04/27/automated-api-development/)
+- [Nordic APIs](http://nordicapis.com/)
 
 ## Blogs
 - [API Evangelist](http://apievangelist.com/blog/)
