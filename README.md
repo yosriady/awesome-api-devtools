@@ -151,6 +151,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
 - [RequestBin](http://requestb.in/): Inspect and debug webhook POST requests.
 - [Hurl.it](https://www.hurl.it/): Web-based HTTP client.
+- [Insomnia](https://insomnia.rest/): REST API client for Mac, Windows, and Linux.
 
 ## API Design Guides
 - [PayPal API Style Guide](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
