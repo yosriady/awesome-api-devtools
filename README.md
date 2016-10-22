@@ -61,6 +61,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [restless](https://github.com/toastdriven/restless): A lightweight REST miniframework for Python.
 - [flask-restful](https://github.com/flask-restful/flask-restful): Simple framework for creating REST APIs.
 - [Falcon](https://github.com/falconry/falcon): Falcon is a low-level, high-performance Python framework for building HTTP APIs, app backends, and higher-level frameworks.
+- [Connexion](https://github.com/zalando/connexion): Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support
+
 
 ### Javascript
 - [hapi.js](http://hapijs.com/): Web and services application framework for Node.js.
@@ -73,6 +75,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Loopback](http://loopback.io/): Node.js framework for creating APIs and easily connecting to backend data sources.
 - [Seneca](http://senecajs.org/): A microservices toolkit for Node.js.
 - [Feathers](http://feathersjs.com/): Build RESTful and real-time APIs through Socket.io or Primus.
+- [Deployd](https://github.com/deployd/deployd): Deployd is the simplest way to build realtime APIs for web and mobile apps
 
 ### Go
 - [Go-Json-Rest](https://github.com/ant0ine/go-json-rest)
@@ -113,6 +116,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### PHP
 - [API Platform](https://github.com/dunglas/api-platform): API framework on top of Symfony with JSON-LD, Schema.org and Hydra support
+- [Dingo API](https://github.com/dingo/api): A RESTful API package for the Laravel and Lumen frameworks
+- [Fractal](https://github.com/thephpleague/fractal): Fractal provides a presentation and transformation layer for complex data output, the like found in RESTful APIs, and works really well with JSON
 
 ### Miscellaneous
 - [Dream Factory](https://github.com/dreamfactorysoftware/dreamfactory): Turn any database into an API platform.
@@ -129,6 +134,13 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Java
 - [Retrofit](http://square.github.io/retrofit/): A type-safe HTTP client for Android and Java.
+
+### Javascript
+- [Restangular](https://github.com/mgonto/restangular): Restangular is an AngularJS service that simplifies common GET, POST, DELETE, and UPDATE requests with a minimum of client code
+
+### .NET
+- [Refit](https://github.com/paulcbetts/refit): The automatic type-safe REST library for .NET Core, Xamarin and .NET
+
 
 ## API Documentation
 - [Swagger UI](https://github.com/swagger-api/swagger-ui): Dynamically generate documentation from a Swagger-compliant API.
@@ -191,6 +203,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [HAL](http://stateless.co/hal_specification.html)
 - [JSONAPI](http://jsonapi.org/faq/)
 - [JSON Schema](http://json-schema.org/)
+- [Hydra](http://www.hydra-cg.com/)
+- [Ion](https://github.com/ionwg/ion-doc)
 
 ## Learning Resources
 - [Choosing an HTTP Status Code](http://racksburg.com/choosing-an-http-status-code/)
@@ -200,6 +214,9 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [How to Design a REST API](http://blog.octo.com/en/design-a-rest-api/)
 - [Automated API Development](http://yosriady.com/2016/04/27/automated-api-development/)
 - [Nordic APIs](http://nordicapis.com/)
+- [Undisturbed REST](https://www.mulesoft.com/sites/default/files/resource-assets/ebook-UndisturbedREST_v1.pdf)
+- [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate)
+- [Irresistible APIs](https://www.manning.com/books/irresistible-apis)
 
 ## Blogs
 - [API Evangelist](http://apievangelist.com/blog/)
