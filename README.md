@@ -40,6 +40,10 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Restlet Studio](https://restlet.com/products/restlet-studio/): Web IDE for API Design.
 - [API Spec Converter](https://lucybot.github.io/api-spec-converter/): Convert between different API spec formats.
 - [Prism](http://stoplight.io/prism/): Supercharge any OAS file with mocking, transformations, validations, and more.
+- [Apimatic](https://www.apimatic.io/): Supports API description formats including Swagger, OAI format, RAML, API Blueprint, IO Docs, WADL, Postman Collections and HAR 1.4 and more
+- [Mulesoft Anypoint](https://anypoint.mulesoft.com): Design and publish enterprise-grade APIs using RAML
+- [Sandbox](https://getsandbox.com/): Quick and easy mock RESTful API from API definitions
+- [Restunited](https://restunited.com/): Generate SDK, Documentation with Testing and Debugging
 
 ## API Specifications
 - [APIS.guru](https://github.com/APIs-guru/api-models): Directory of API specs in OpenAPI(aka Swagger) 2.0 format.
@@ -78,7 +82,16 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Deployd](https://github.com/deployd/deployd): Deployd is the simplest way to build realtime APIs for web and mobile apps
 
 ### Go
-- [Go-Json-Rest](https://github.com/ant0ine/go-json-rest)
+- [Go-Json-Rest](https://github.com/ant0ine/go-json-rest): Thin layer on top of `net/http` that helps building RESTful APIs easily
+- [gocrud](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
+- [sleepy](https://github.com/dougblack/sleepy): RESTful micro-framework written in Go.
+- [restit](https://github.com/yookoala/restit): Go micro framework to help writing RESTful API integration test.
+- [go-relax](https://github.com/codehack/go-relax): Framework of pluggable components to build RESTful API's.
+- [go-rest](https://github.com/ungerik/go-rest): Small and evil REST framework for Go.
+- [go-restful](https://github.com/emicklei/go-restful): A declarative highly readable framework for building restful API's.
+- [Goat](https://github.com/bahlo/goat): Minimalistic REST API server in Go.
+- [Resoursea](https://github.com/resoursea/api): REST framework for quickly writing resource based services.
+- [Zerver](https://github.com/cosiner/zerver): Zerver is a expressive, modular, feature completed RESTful framework.
 
 ### Scala
 
@@ -154,7 +167,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [API Docs](http://api-docs.io/): Hosted public API documentation for OAS (Swagger) and RAML specs.
 - [ReDoc](https://github.com/Rebilly/ReDoc/): OpenAPI/Swagger-powered three-panel documentation 
 
-
 ## API Testing
 - [Postman](https://www.getpostman.com/): Desktop API testing tool.
 - [Paw](https://luckymarmot.com/paw): REST client for Mac.
@@ -170,6 +182,9 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Heroku Platform HTTP API Design Guide](https://github.com/interagent/http-api-design)
 - [Haufe API Style Guide](http://haufe-lexware.github.io/api-style-guide/)
 - [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+- [18F API Standards](https://github.com/18f/api-standards)
+- [The RESTed NARWHL](https://www.narwhl.com/)
+- [White House Web API Standards](https://github.com/whitehouse/api-standards)
 
 ## API Publishing
 - [Mashape](https://www.mashape.com/): API Marketplace.
