@@ -232,6 +232,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Undisturbed REST](https://www.mulesoft.com/sites/default/files/resource-assets/ebook-UndisturbedREST_v1.pdf)
 - [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate)
 - [Irresistible APIs](https://www.manning.com/books/irresistible-apis)
+- [How to build an API](https://apiary.io/how-to-build-api)
 
 ## Blogs
 - [API Evangelist](http://apievangelist.com/blog/)
