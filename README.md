@@ -177,6 +177,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [RequestBin](http://requestb.in/): Inspect and debug webhook POST requests.
 - [Hurl.it](https://www.hurl.it/): Web-based HTTP client.
 - [Insomnia](https://insomnia.rest/): REST API client for Mac, Windows, and Linux.
+- [HttpMaster](http://www.httpmaster.net/): Desktop tool for REST API testing.
 
 ## API Design Guides
 - [PayPal API Style Guide](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
@@ -234,6 +235,9 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate)
 - [Irresistible APIs](https://www.manning.com/books/irresistible-apis)
 - [How to build an API](https://apiary.io/how-to-build-api)
+- [API University](http://www.programmableweb.com/api-university)
+- [RESTful Web Services](http://shop.oreilly.com/product/9780596529260.do)
+- [RESTful Web APIs](http://shop.oreilly.com/product/0636920028468.do)
 
 ## Blogs
 - [API Evangelist](http://apievangelist.com/blog/)
