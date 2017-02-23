@@ -181,6 +181,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [HttpMaster](http://www.httpmaster.net/): Desktop tool for REST API testing.
 
 ## API Design Guides
+- [Google API Design Guide](https://cloud.google.com/apis/design/)
 - [PayPal API Style Guide](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
 - [Heroku Platform HTTP API Design Guide](https://github.com/interagent/http-api-design)
 - [Haufe API Style Guide](http://haufe-lexware.github.io/api-style-guide/)
