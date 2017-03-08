@@ -189,6 +189,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [18F API Standards](https://github.com/18f/api-standards)
 - [The RESTed NARWHL](https://www.narwhl.com/)
 - [White House Web API Standards](https://github.com/whitehouse/api-standards)
+- [Zalando REST API Guidelines](http:/zalando.github.io/restful-api-guidelines/)
 
 ## API Publishing
 - [Mashape](https://www.mashape.com/): API Marketplace.
