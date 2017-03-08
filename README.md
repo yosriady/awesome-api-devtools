@@ -12,9 +12,9 @@ Contributions are most welcome. Categories are also open to suggestions!
 *  [API Specification Tools](#api-specification-tools)
 *  [API Specifications](#api-specifications)
 *  [API Frameworks](#api-frameworks)
-*  [API Client Library Tools](#api-client-library-tools)
+*  [API Client Development Tools](#api-client-development-tools)
 *  [API Documentation](#api-documentation)
-*  [API Testing](#api-testing)
+*  [API Clients](#api-clients)
 *  [API Design Guides](#api-design-guides)
 *  [API Publishing](#api-publishing)
 *  [API Gateways](#api-gateways)
@@ -135,7 +135,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ### Miscellaneous
 - [Dream Factory](https://github.com/dreamfactorysoftware/dreamfactory): Turn any database into an API platform.
 
-## API Client Library Tools
+## API Client Development Tools
 ### General
 - [Swagger CodeGen](https://github.com/swagger-api/swagger-codegen): Generate client libraries automatically from a Swagger-compliant server.
 - [sdks.io](https://sdks.io/): Explore Automatically Generated SDKs.
@@ -169,7 +169,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [ReDoc](https://github.com/Rebilly/ReDoc/): OpenAPI/Swagger-powered three-panel documentation.
 - [Docula](https://docu.la/): Documentation using Github and OpenAPI standards.
 
-## API Testing
+## API Clients
+- [HTTPie](https://httpie.org/): Command line HTTP client.
 - [Postman](https://www.getpostman.com/): Desktop API testing tool.
 - [Paw](https://luckymarmot.com/paw): REST client for Mac.
 - [Insomnia REST Client](http://insomnia.rest/): REST client Chrome app.
