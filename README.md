@@ -101,6 +101,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Scalatra](http://www.scalatra.org/): Simple, accessible and free web micro-framework.
 - [Skinny Micro](https://github.com/skinny-framework/skinny-micro): Micro-web framework to build servlet applications in Scala.
 - [Spray](http://spray.io/): Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
+- [Akka HTTP](https://github.com/akka/akka-http): The Akka HTTP modules implement a full server- and client-side HTTP stack on top of akka-actor and akka-stream.
+- [Swagger Akka HTTP](https://github.com/swagger-akka-http/swagger-akka-http): Swagger-Akka-Http brings Swagger support for Akka-Http Apis.
 
 ### Java
 
@@ -196,7 +198,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Mashape](https://www.mashape.com/): API Marketplace.
 
 ## API Gateways
-- [AWS API Gateway](https://aws.amazon.com/api-gateway/). Traffic management, authorization and access control, monitoring, and API version management.
+- [AWS API Gateway](https://aws.amazon.com/api-gateway/): Traffic management, authorization and access control, monitoring, and API version management.
 - [API Umbrella](http://apiumbrella.io/):  Proxy that sits in front of your APIs.
 - [APIAxle](https://github.com/apiaxle/apiaxle/): Proxy that sits in front of your APIs.
 - [APIGrove](http://apigrove.github.io/apigrove/): API manager built in Java on top of Fuse ESB.
@@ -205,14 +207,16 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Pushpin](http://pushpin.org): Proxy for both request/response or streaming (long poll) of responses
 - [Strongloop](https://github.com/strongloop/loopback-gateway): nodejs based API Gateway
 - [Fusio](http://www.fusio-project.org/): PHP based open source API management platform
-- [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
-- [HAProxy](http://www.haproxy.org/) - Reliable, high Performance TCP/HTTP load balancer.
-- [OpenResty](http://openresty.org/) - Fast web application server built on top of Nginx.
-- [Tengine](http://tengine.taobao.org/) - A distribution of Nginx with some advanced features.
-- [Tyk](https://tyk.io/) - Open-source, fast and scalable API gateway, portal and API management platform.
-- [Vulcand](https://github.com/mailgun/vulcand) - Programmatic load balancer backed by Etcd.
-- [Zuul](https://github.com/Netflix/zuul) - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
-- [Kong](https://getkong.org/) - An open-source management layer for APIs, delivering high performance and reliability.
+- [Camel](http://camel.apache.org/): Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
+- [HAProxy](http://www.haproxy.org/): Reliable, high Performance TCP/HTTP load balancer.
+- [OpenResty](http://openresty.org/): Fast web application server built on top of Nginx.
+- [Tengine](http://tengine.taobao.org/): A distribution of Nginx with some advanced features.
+- [Tyk](https://tyk.io/): Open-source, fast and scalable API gateway, portal and API management platform.
+- [Vulcand](https://github.com/mailgun/vulcand): Programmatic load balancer backed by Etcd.
+- [Zuul](https://github.com/Netflix/zuul): An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
+- [Kong](https://getkong.org/): An open-source management layer for APIs, delivering high performance and reliability.
+- [Janus](https://github.com/hellofresh/janus): A lightweight API Gateway written in Go by [Hello Fresh](https://engineering.hellofresh.com).
+- [fabio](https://github.com/eBay/fabio): A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by [consul](https://www.consul.io) by eBay.
 
 
 ## API Monitoring
