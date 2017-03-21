@@ -170,6 +170,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [API Docs](http://api-docs.io/): Hosted public API documentation for OAS (Swagger) and RAML specs.
 - [ReDoc](https://github.com/Rebilly/ReDoc/): OpenAPI/Swagger-powered three-panel documentation.
 - [Docula](https://docu.la/): Documentation using Github and OpenAPI standards.
+- [Docbox](https://github.com/tmcw/docbox): REST API documentation generator, using Markdown.
 
 ## API Clients
 - [HTTPie](https://httpie.org/): Command line HTTP client.
