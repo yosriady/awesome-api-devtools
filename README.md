@@ -19,6 +19,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 *  [API Publishing](#api-publishing)
 *  [API Gateways](#api-gateways)
 *  [API Monitoring](#api-monitoring)
+*  [API Testing](#api-testing)
 *  [JSON Format Standards](#json-format-standards)
 *  [Learning Resources](#learning-resources)
 *  [Blogs](#blogs)
@@ -224,6 +225,9 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
 - [Galileo](https://www.apianalytics.com/): API Monitoring Platform.
 - [Ping-API](https://ping-api.com/): Automated API Testing.
+
+## API Testing
+- [Assertible](https://assertible.com): Continuously test and monitor your APIs after deployments and across environments.
 
 ## JSON Format Standards
 - [HAL](http://stateless.co/hal_specification.html)
