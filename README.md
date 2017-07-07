@@ -184,6 +184,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Hurl.it](https://www.hurl.it/): Web-based HTTP client.
 - [Insomnia](https://insomnia.rest/): REST API client for Mac, Windows, and Linux.
 - [HttpMaster](http://www.httpmaster.net/): Desktop tool for REST API testing.
+- [Jsonium](http://jsonium.org/): Free REST client for JSON over HTTP protocols 
+- [I'm only Resting](http://www.swensensoftware.com/im-only-resting): Windows GUI tool for REST API testing
 
 ## API Design Guides
 - [Google API Design Guide](https://cloud.google.com/apis/design/)
@@ -228,6 +230,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## API Testing
 - [Assertible](https://assertible.com): Continuously test and monitor your APIs after deployments and across environments.
+- [Pyresttest](https://github.com/svanoort/pyresttest): YAML based REST testing and API microbenchmarking tool
 
 ## JSON Format Standards
 - [HAL](http://stateless.co/hal_specification.html)
