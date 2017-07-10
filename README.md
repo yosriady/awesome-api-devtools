@@ -18,6 +18,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 *  [API Design Guides](#api-design-guides)
 *  [API Publishing](#api-publishing)
 *  [API Gateways](#api-gateways)
+*  [API Security](#api-security)
 *  [API Monitoring](#api-monitoring)
 *  [API Testing](#api-testing)
 *  [JSON Format Standards](#json-format-standards)
@@ -222,6 +223,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Janus](https://github.com/hellofresh/janus): A lightweight API Gateway written in Go by [Hello Fresh](https://engineering.hellofresh.com).
 - [fabio](https://github.com/eBay/fabio): A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by [consul](https://www.consul.io) by eBay.
 
+## API Security
+- [API Security checklist](https://github.com/shieldfy/API-Security-Checklist): Checklist of the most important security countermeasures when designing, testing, and releasing your API.
 
 ## API Monitoring
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
