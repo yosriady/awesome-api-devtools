@@ -178,12 +178,11 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [HTTPie](https://httpie.org/): Command line HTTP client.
 - [Postman](https://www.getpostman.com/): Desktop API testing tool.
 - [Paw](https://luckymarmot.com/paw): REST client for Mac.
-- [Insomnia REST Client](http://insomnia.rest/): REST client Chrome app.
+- [Insomnia](http://insomnia.rest/): REST API client for Mac, Windows, and Linux.
 - [MockBin](https://mockbin.com/): Generate mock HTTP endpoints.
 - [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
 - [RequestBin](http://requestb.in/): Inspect and debug webhook POST requests.
 - [Hurl.it](https://www.hurl.it/): Web-based HTTP client.
-- [Insomnia](https://insomnia.rest/): REST API client for Mac, Windows, and Linux.
 - [HttpMaster](http://www.httpmaster.net/): Desktop tool for REST API testing.
 - [Jsonium](http://jsonium.org/): Free REST client for JSON over HTTP protocols 
 - [I'm only Resting](http://www.swensensoftware.com/im-only-resting): Windows GUI tool for REST API testing
