@@ -29,12 +29,12 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Specification Languages
 - [API Blueprint](https://github.com/apiaryio/api-blueprint)
 - [JSON Schema](http://json-schema.org/)
-- [RAML](http://raml.org/)
-- [Swagger](http://swagger.io/)
+- [RAML](https://raml.org/)
+- [Swagger](https://swagger.io/)
 
 ## API Specification Tools
 - [Swagger Editor](http://editor.swagger.io/#/): An editor for designing Swagger specifications.
-- [Swagger Tools and Integrations](http://swagger.io/open-source-integrations/): A list of libraries and frameworks serving the Swagger ecosystem.
+- [Swagger Tools and Integrations](https://swagger.io/open-source-integrations/): A list of libraries and frameworks serving the Swagger ecosystem.
 - [OpenAPI Spec Tooling](http://definitions.apievangelist.com/openapi-spec/tooling/):  A list of libraries and frameworks serving the OpenAPI ecosystem.
 - [API Studio](http://apistudio.io/). Write, mock, and share your Swagger specifications online.
 - [Dredd](https://github.com/apiaryio/dredd): Validate API documentation written in API Blueprint against its backend implementation.
@@ -71,16 +71,16 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 
 ### Javascript
-- [hapi.js](http://hapijs.com/): Web and services application framework for Node.js.
+- [hapi.js](https://hapijs.com/): Web and services application framework for Node.js.
 - [Restify](https://github.com/restify/node-restify): Node.js REST framework specifically meant for web service APIs.
-- [Express](http://expressjs.com/): Fast, unopinionated, minimalist web framework for Node.js.
+- [Express](https://expressjs.com/): Fast, unopinionated, minimalist web framework for Node.js.
 - [sailsjs](http://sailsjs.org/): Realtime MVC Framework for Node.js.
-- [Actionhero](http://www.actionherojs.com/): Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
+- [Actionhero](https://www.actionherojs.com/): Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
 - [Baucis](https://github.com/wprl/baucis): To build
 - [Koa](http://koajs.com/): Next generation web framework for Node.js
 - [Loopback](http://loopback.io/): Node.js framework for creating APIs and easily connecting to backend data sources.
 - [Seneca](http://senecajs.org/): A microservices toolkit for Node.js.
-- [Feathers](http://feathersjs.com/): Build RESTful and real-time APIs through Socket.io or Primus.
+- [Feathers](https://feathersjs.com/): Build RESTful and real-time APIs through Socket.io or Primus.
 - [Deployd](https://github.com/deployd/deployd): Deployd is the simplest way to build realtime APIs for web and mobile apps
 - [Nest](https://github.com/kamilmysliwiec/nest): A modern node.js framework for efficient and scalable web applications built on top of TypeScript
 
@@ -99,7 +99,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ### Scala
 
 - [Colossus](https://github.com/tumblr/colossus): I/O and microservice library for Scala.
-- [Finatra](http://twitter.github.io/finatra/): Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
+- [Finatra](https://twitter.github.io/finatra/): Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
 - [Play](https://www.playframework.com/): The high velocity web framework for Java and Scala.
 - [Scalatra](http://www.scalatra.org/): Simple, accessible and free web micro-framework.
 - [Skinny Micro](https://github.com/skinny-framework/skinny-micro): Micro-web framework to build servlet applications in Scala.
@@ -151,7 +151,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [nestful](https://github.com/maccman/nestful): Ruby HTTP/REST client.
 
 ### Java
-- [Retrofit](http://square.github.io/retrofit/): A type-safe HTTP client for Android and Java.
+- [Retrofit](https://square.github.io/retrofit/): A type-safe HTTP client for Android and Java.
 
 ### Javascript
 - [Restangular](https://github.com/mgonto/restangular): Restangular is an AngularJS service that simplifies common GET, POST, DELETE, and UPDATE requests with a minimum of client code
@@ -167,10 +167,10 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [prmd](https://github.com/interagent/prmd): JSON Schema tooling: scaffold, verify, and generate documentation from JSON Schema documents.
 - [Aglio](https://github.com/danielgtaylor/aglio): An API Blueprint renderer with theme support that outputs static HTML.
 - [Apiary](https://apiary.io/): Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
-- [Readme](http://readme.io/): API Documentation Hosting.
+- [Readme](https://readme.io/): API Documentation Hosting.
 - [Embed curl](https://www.embedcurl.com/): Embeddable curl commands on the web.
 - [Gelato](https://gelato.io/): Create developer portals for your API.
-- [API Docs](http://api-docs.io/): Hosted public API documentation for OAS (Swagger) and RAML specs.
+- [API Docs](https://api-docs.io/): Hosted public API documentation for OAS (Swagger) and RAML specs.
 - [ReDoc](https://github.com/Rebilly/ReDoc/): OpenAPI/Swagger-powered three-panel documentation.
 - [Docula](https://docu.la/): Documentation using Github and OpenAPI standards.
 - [Docbox](https://github.com/tmcw/docbox): REST API documentation generator, using Markdown.
@@ -179,13 +179,13 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [HTTPie](https://httpie.org/): Command line HTTP client.
 - [Postman](https://www.getpostman.com/): Desktop API testing tool.
 - [Paw](https://luckymarmot.com/paw): REST client for Mac.
-- [Insomnia](http://insomnia.rest/): REST API client for Mac, Windows, and Linux.
+- [Insomnia](https://insomnia.rest/): REST API client for Mac, Windows, and Linux.
 - [MockBin](https://mockbin.com/): Generate mock HTTP endpoints.
 - [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
-- [RequestBin](http://requestb.in/): Inspect and debug webhook POST requests.
+- [RequestBin](https://requestb.in/): Inspect and debug webhook POST requests.
 - [Hurl.it](https://www.hurl.it/): Web-based HTTP client.
-- [HttpMaster](http://www.httpmaster.net/): Desktop tool for REST API testing.
-- [Jsonium](http://jsonium.org/): Free REST client for JSON over HTTP protocols 
+- [HttpMaster](https://www.httpmaster.net/): Desktop tool for REST API testing.
+- [Jsonium](http://jsonium.org/): Free REST client for JSON over HTTP protocols
 - [I'm only Resting](http://www.swensensoftware.com/im-only-resting): Windows GUI tool for REST API testing
 
 ## API Design Guides
@@ -197,24 +197,24 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [18F API Standards](https://github.com/18f/api-standards)
 - [The RESTed NARWHL](https://www.narwhl.com/)
 - [White House Web API Standards](https://github.com/whitehouse/api-standards)
-- [Zalando REST API Guidelines](http:/zalando.github.io/restful-api-guidelines/)
+- [Zalando REST API Guidelines](https://zalando.github.io/restful-api-guidelines/)
 
 ## API Publishing
 - [Mashape](https://www.mashape.com/): API Marketplace.
 
 ## API Gateways
 - [AWS API Gateway](https://aws.amazon.com/api-gateway/): Traffic management, authorization and access control, monitoring, and API version management.
-- [API Umbrella](http://apiumbrella.io/):  Proxy that sits in front of your APIs.
+- [API Umbrella](https://apiumbrella.io/): Proxy that sits in front of your APIs.
 - [APIAxle](https://github.com/apiaxle/apiaxle/): Proxy that sits in front of your APIs.
-- [APIGrove](http://apigrove.github.io/apigrove/): API manager built in Java on top of Fuse ESB.
+- [APIGrove](https://apigrove.github.io/apigrove/): API manager built in Java on top of Fuse ESB.
 - [APIUmbrella](https://github.com/NREL/api-umbrella):  API management platform
 - [Apigee127](https://github.com/apigee-127/a127-documentation/wiki/What-is-Apigee-127): nodejs based API Gateway
 - [Pushpin](http://pushpin.org): Proxy for both request/response or streaming (long poll) of responses
 - [Strongloop](https://github.com/strongloop/loopback-gateway): nodejs based API Gateway
 - [Fusio](http://www.fusio-project.org/): PHP based open source API management platform
-- [Camel](http://camel.apache.org/): Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
+- [Camel](https://camel.apache.org/): Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
 - [HAProxy](http://www.haproxy.org/): Reliable, high Performance TCP/HTTP load balancer.
-- [OpenResty](http://openresty.org/): Fast web application server built on top of Nginx.
+- [OpenResty](https://openresty.org/): Fast web application server built on top of Nginx.
 - [Tengine](http://tengine.taobao.org/): A distribution of Nginx with some advanced features.
 - [Tyk](https://tyk.io/): Open-source, fast and scalable API gateway, portal and API management platform.
 - [Vulcand](https://github.com/mailgun/vulcand): Programmatic load balancer backed by Etcd.
@@ -245,16 +245,16 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## Learning Resources
 - [Choosing an HTTP Status Code](http://racksburg.com/choosing-an-http-status-code/)
 - [REST in Practice](http://shop.oreilly.com/product/9780596805838.do)
-- [Roy Fielding's dissertation on REST](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+- [Roy Fielding's dissertation on REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 - [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-- [How to Design a REST API](http://blog.octo.com/en/design-a-rest-api/)
-- [Automated API Development](http://yosriady.com/2016/04/27/automated-api-development/)
+- [How to Design a REST API](https://blog.octo.com/en/design-a-rest-api/)
+- [Automated API Development](https://yos.io/2016/04/27/automated-api-development/)
 - [Nordic APIs](http://nordicapis.com/)
 - [Undisturbed REST](https://www.mulesoft.com/sites/default/files/resource-assets/ebook-UndisturbedREST_v1.pdf)
 - [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate)
 - [Irresistible APIs](https://www.manning.com/books/irresistible-apis)
 - [How to build an API](https://apiary.io/how-to-build-api)
-- [API University](http://www.programmableweb.com/api-university)
+- [API University](https://www.programmableweb.com/api-university)
 - [RESTful Web Services](http://shop.oreilly.com/product/9780596529260.do)
 - [RESTful Web APIs](http://shop.oreilly.com/product/0636920028468.do)
 
@@ -275,8 +275,8 @@ Please write a brief one-sentence summary when adding a new resource.
 **api-development-tools** © 2016+, Yos Riady. Released under the [MIT] License.<br>
 Authored and maintained by Yos Riady with help from contributors ([list][contributors]).
 
-> [yos.io](http://yos.io) &nbsp;&middot;&nbsp;
+> [yos.io](https://yos.io) &nbsp;&middot;&nbsp;
 > GitHub [@yosriady](https://github.com/yosriady)
 
-[MIT]: http://mit-license.org/
-[contributors]: http://github.com/yosriady/api-development-tools/contributors
+[MIT]: https://mit-license.org/
+[contributors]: https://github.com/yosriady/api-development-tools/contributors
