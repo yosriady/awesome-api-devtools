@@ -1,13 +1,11 @@
 # HTTP API Development Tools
 
 ## Introduction
-
 This is a collection of useful resources for building RESTful HTTP+JSON APIs. There are a lot of good tools and entire ecosystems out there! It can be overwhelming not knowing what options are available, so you can use this as a reference starting point.
 
 Contributions are most welcome. Categories are also open to suggestions!
 
 ## Table of Contents
-
 *  [API Specification Languages](#api-specification-languages)
 *  [API Specification Tools](#api-specification-tools)
 *  [API Specifications](#api-specifications)
@@ -49,9 +47,10 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## API Specifications
 - [APIS.guru](https://apis.guru/openapi-directory/): Directory of API specs in OpenAPI(aka Swagger) 2.0 format.
-- [AnyAPI](https://any-api.com/):  Documentation and Test Consoles for Public APIs.
+- [AnyAPI](https://any-api.com/): Documentation and Test Consoles for Public APIs.
 
 ## API Frameworks
+
 ### Ruby
 - [rails-api](https://github.com/rails-api/rails-api): Rails for API only applications.
 - [pliny](https://github.com/interagent/pliny): Opinionated template Sinatra app for writing APIs in Ruby.
@@ -68,7 +67,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [flask-restful](https://github.com/flask-restful/flask-restful): Simple framework for creating REST APIs.
 - [Falcon](https://github.com/falconry/falcon): Falcon is a low-level, high-performance Python framework for building HTTP APIs, app backends, and higher-level frameworks.
 - [Connexion](https://github.com/zalando/connexion): Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support
-
 
 ### Javascript
 - [hapi.js](https://hapijs.com/): Web and services application framework for Node.js.
@@ -97,7 +95,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Zerver](https://github.com/cosiner/zerver): Zerver is a expressive, modular, feature completed RESTful framework.
 
 ### Scala
-
 - [Colossus](https://github.com/tumblr/colossus): I/O and microservice library for Scala.
 - [Finatra](https://twitter.github.io/finatra/): Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
 - [Play](https://www.playframework.com/): The high velocity web framework for Java and Scala.
@@ -108,23 +105,19 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Swagger Akka HTTP](https://github.com/swagger-akka-http/swagger-akka-http): Swagger-Akka-Http brings Swagger support for Akka-Http Apis.
 
 ### Java
-
 - [Rest.li](http://rest.li/): REST framework using type-safe bindings and asynchronous, non-blocking IO.
 - [Dropwizard](http://www.dropwizard.io/1.0.0/docs/): Framework for developing ops-friendly, high-performance, RESTful web services.
 - [Jersey](https://jersey.java.net/): RESTful web services in Java.
 
 ### Haskell
-
 - [Scotty](https://github.com/scotty-web/scotty): Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
 - [Yesod](https://github.com/yesodweb/yesod): The Haskell RESTful web framework.
 
 ### Elixir
-
 - [Phoenix](http://phoenixframework.org/): Framework for building HTML5 apps, API backends and distributed systems.
 - [Plug](https://github.com/elixir-plug/plug): A specification and conveniences for composable modules between web applications.
 
 ### Erlang
-
 - [Cowboy](https://github.com/ninenines/cowboy): Small, fast, modular HTTP server written in Erlang.
 - [Gen Microservice](https://github.com/videlalvaro/gen_microservice): This library solves the problem of implementing microservices with Erlang.
 - [Mochiweb](https://github.com/mochi/mochiweb): Erlang library for building lightweight HTTP servers.
@@ -141,6 +134,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Dream Factory](https://github.com/dreamfactorysoftware/dreamfactory): Turn any database into an API platform.
 
 ## API Client Development Tools
+
 ### General
 - [Swagger CodeGen](https://github.com/swagger-api/swagger-codegen): Generate client libraries automatically from a Swagger-compliant server.
 - [sdks.io](https://sdks.io/): Explore Automatically Generated SDKs.
@@ -158,7 +152,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### .NET
 - [Refit](https://github.com/paulcbetts/refit): The automatic type-safe REST library for .NET Core, Xamarin and .NET
-
 
 ## API Documentation
 - [ReDoc](https://github.com/Rebilly/ReDoc): OpenAPI/Swagger-generated API Reference Documentation.
@@ -263,13 +256,11 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [HTTP Status Codes Reference](https://httpstatuses.com/)
 
 ## Contributing
-
 [Pull Requests](https://github.com/yosriady/api-development-tools/pulls) are most welcome!
 
 Please write a brief one-sentence summary when adding a new resource.
 
 ## Thanks
-
 **api-development-tools** © 2016+, Yos Riady. Released under the [MIT] License.<br>
 Authored and maintained by Yos Riady with help from contributors ([list][contributors]).
 
