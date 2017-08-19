@@ -171,7 +171,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Embed curl](https://www.embedcurl.com/): Embeddable curl commands on the web.
 - [Gelato](https://gelato.io/): Create developer portals for your API.
 - [API Docs](https://api-docs.io/): Hosted public API documentation for OAS (Swagger) and RAML specs.
-- [ReDoc](https://github.com/Rebilly/ReDoc/): OpenAPI/Swagger-powered three-panel documentation.
 - [Docula](https://docu.la/): Documentation using Github and OpenAPI standards.
 - [Docbox](https://github.com/tmcw/docbox): REST API documentation generator, using Markdown.
 
@@ -207,7 +206,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [API Umbrella](https://apiumbrella.io/): Proxy that sits in front of your APIs.
 - [APIAxle](https://github.com/apiaxle/apiaxle/): Proxy that sits in front of your APIs.
 - [APIGrove](https://apigrove.github.io/apigrove/): API manager built in Java on top of Fuse ESB.
-- [APIUmbrella](https://github.com/NREL/api-umbrella):  API management platform
 - [Apigee127](https://github.com/apigee-127/a127-documentation/wiki/What-is-Apigee-127): nodejs based API Gateway
 - [Pushpin](http://pushpin.org): Proxy for both request/response or streaming (long poll) of responses
 - [Strongloop](https://github.com/strongloop/microgateway): nodejs based API Gateway
