@@ -33,33 +33,33 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Swagger](https://swagger.io/)
 
 ## API Specification Tools
-- [Swagger Editor](http://editor.swagger.io/#/): An editor for designing Swagger specifications.
+- [Swagger Editor](http://editor.swagger.io/): An editor for designing Swagger specifications.
 - [Swagger Tools and Integrations](https://swagger.io/open-source-integrations/): A list of libraries and frameworks serving the Swagger ecosystem.
-- [OpenAPI Spec Tooling](http://definitions.apievangelist.com/openapi-spec/tooling/):  A list of libraries and frameworks serving the OpenAPI ecosystem.
+- [OpenAPI Spec Tooling](http://definitions.apievangelist.com/#Tools): A list of libraries and frameworks serving the OpenAPI ecosystem.
 - [API Studio](http://apistudio.io/). Write, mock, and share your Swagger specifications online.
 - [Dredd](https://github.com/apiaryio/dredd): Validate API documentation written in API Blueprint against its backend implementation.
 - [APITransformer](https://apitransformer.com/): Transform API Descriptions from/to various formats e.g., Swagger, API Blueprint, RAML, WADL, Google Discovery, I/O Docs.
-- [Restlet Studio](https://restlet.com/products/restlet-studio/): Web IDE for API Design.
-- [API Spec Converter](https://lucybot.github.io/api-spec-converter/): Convert between different API spec formats.
-- [Prism](http://stoplight.io/prism/): Supercharge any OAS file with mocking, transformations, validations, and more.
+- [Restlet Studio](https://restlet.com/modules/studio/): Web IDE for API Design.
+- [API Spec Converter](https://lucybot-inc.github.io/api-spec-converter/): Convert between different API spec formats.
+- [Prism](http://stoplight.io/platform/prism/): Supercharge any OAS file with mocking, transformations, validations, and more.
 - [Apimatic](https://www.apimatic.io/): Supports API description formats including Swagger, OAI format, RAML, API Blueprint, IO Docs, WADL, Postman Collections and HAR 1.4 and more
-- [Mulesoft Anypoint](https://anypoint.mulesoft.com): Design and publish enterprise-grade APIs using RAML
+- [Mulesoft Anypoint](https://anypoint.mulesoft.com/): Design and publish enterprise-grade APIs using RAML
 - [Sandbox](https://getsandbox.com/): Quick and easy mock RESTful API from API definitions
 - [Restunited](https://restunited.com/): Generate SDK, Documentation with Testing and Debugging
 
 ## API Specifications
-- [APIS.guru](https://github.com/APIs-guru/api-models): Directory of API specs in OpenAPI(aka Swagger) 2.0 format.
+- [APIS.guru](https://apis.guru/openapi-directory/): Directory of API specs in OpenAPI(aka Swagger) 2.0 format.
 - [AnyAPI](https://any-api.com/):  Documentation and Test Consoles for Public APIs.
 
 ## API Frameworks
 ### Ruby
 - [rails-api](https://github.com/rails-api/rails-api): Rails for API only applications.
 - [pliny](https://github.com/interagent/pliny): Opinionated template Sinatra app for writing APIs in Ruby.
-- [grape](https://github.com/intridea/grape): An opinionated micro-framework for creating REST-like APIs in Ruby.
+- [grape](https://github.com/ruby-grape/grape): An opinionated micro-framework for creating REST-like APIs in Ruby.
 - [ActiveModel::Serializer](https://github.com/rails-api/active_model_serializers): Brings convention over configuration to your JSON generation.
 - [rabl](https://github.com/nesquena/rabl): Generate JSON and XML from any ruby object.
 - [jbuilder](https://github.com/rails/jbuilder): Create JSON structures via a Builder-style DSL.
-- [roar](https://github.com/apotonick/roar): Parse and render REST API documents using representers.
+- [roar](https://github.com/trailblazer/roar): Parse and render REST API documents using representers.
 
 ### Python
 - [Django REST framework](http://www.django-rest-framework.org/): Toolkit that makes it easy to build Web APIs.
@@ -88,7 +88,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Go-Json-Rest](https://github.com/ant0ine/go-json-rest): Thin layer on top of `net/http` that helps building RESTful APIs easily
 - [gocrud](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
 - [sleepy](https://github.com/dougblack/sleepy): RESTful micro-framework written in Go.
-- [restit](https://github.com/yookoala/restit): Go micro framework to help writing RESTful API integration test.
+- [restit](https://github.com/go-restit/restit): Go micro framework to help writing RESTful API integration test.
 - [go-relax](https://github.com/codehack/go-relax): Framework of pluggable components to build RESTful API's.
 - [go-rest](https://github.com/ungerik/go-rest): Small and evil REST framework for Go.
 - [go-restful](https://github.com/emicklei/go-restful): A declarative highly readable framework for building restful API's.
@@ -120,8 +120,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Elixir
 
-- [Phoenix](http://www.phoenixframework.org/): Framework for building HTML5 apps, API backends and distributed systems.
-- [Plug](https://github.com/elixir-lang/plug): A specification and conveniences for composable modules between web applications.
+- [Phoenix](http://phoenixframework.org/): Framework for building HTML5 apps, API backends and distributed systems.
+- [Plug](https://github.com/elixir-plug/plug): A specification and conveniences for composable modules between web applications.
 
 ### Erlang
 
@@ -133,7 +133,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [PostgREST](https://github.com/begriffs/postgrest): Serve a RESTful API from any existing PostgreSQL database.
 
 ### PHP
-- [API Platform](https://github.com/dunglas/api-platform): API framework on top of Symfony with JSON-LD, Schema.org and Hydra support
+- [API Platform](https://github.com/api-platform/api-platform): API framework on top of Symfony with JSON-LD, Schema.org and Hydra support
 - [Dingo API](https://github.com/dingo/api): A RESTful API package for the Laravel and Lumen frameworks
 - [Fractal](https://github.com/thephpleague/fractal): Fractal provides a presentation and transformation layer for complex data output, the like found in RESTful APIs, and works really well with JSON
 
@@ -163,7 +163,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Documentation
 - [ReDoc](https://github.com/Rebilly/ReDoc): OpenAPI/Swagger-generated API Reference Documentation.
 - [Swagger UI](https://github.com/swagger-api/swagger-ui): Dynamically generate documentation from a Swagger-compliant API.
-- [Slate](https://github.com/tripit/slate): Static site generated documentation for your API.
+- [Slate](https://github.com/lord/slate): Static site generated documentation for your API.
 - [prmd](https://github.com/interagent/prmd): JSON Schema tooling: scaffold, verify, and generate documentation from JSON Schema documents.
 - [Aglio](https://github.com/danielgtaylor/aglio): An API Blueprint renderer with theme support that outputs static HTML.
 - [Apiary](https://apiary.io/): Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
@@ -178,7 +178,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Clients
 - [HTTPie](https://httpie.org/): Command line HTTP client.
 - [Postman](https://www.getpostman.com/): Desktop API testing tool.
-- [Paw](https://luckymarmot.com/paw): REST client for Mac.
+- [Paw](https://paw.cloud/): REST client for Mac.
 - [Insomnia](https://insomnia.rest/): REST API client for Mac, Windows, and Linux.
 - [MockBin](https://mockbin.com/): Generate mock HTTP endpoints.
 - [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
@@ -192,7 +192,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Google API Design Guide](https://cloud.google.com/apis/design/)
 - [PayPal API Style Guide](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
 - [Heroku Platform HTTP API Design Guide](https://github.com/interagent/http-api-design)
-- [Haufe API Style Guide](http://haufe-lexware.github.io/api-style-guide/)
+- [Haufe API Style Guide](http://work.haufegroup.io/api-style-guide/)
 - [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 - [18F API Standards](https://github.com/18f/api-standards)
 - [The RESTed NARWHL](https://www.narwhl.com/)
@@ -210,25 +210,25 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [APIUmbrella](https://github.com/NREL/api-umbrella):  API management platform
 - [Apigee127](https://github.com/apigee-127/a127-documentation/wiki/What-is-Apigee-127): nodejs based API Gateway
 - [Pushpin](http://pushpin.org): Proxy for both request/response or streaming (long poll) of responses
-- [Strongloop](https://github.com/strongloop/loopback-gateway): nodejs based API Gateway
+- [Strongloop](https://github.com/strongloop/microgateway): nodejs based API Gateway
 - [Fusio](http://www.fusio-project.org/): PHP based open source API management platform
 - [Camel](https://camel.apache.org/): Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
 - [HAProxy](http://www.haproxy.org/): Reliable, high Performance TCP/HTTP load balancer.
 - [OpenResty](https://openresty.org/): Fast web application server built on top of Nginx.
 - [Tengine](http://tengine.taobao.org/): A distribution of Nginx with some advanced features.
 - [Tyk](https://tyk.io/): Open-source, fast and scalable API gateway, portal and API management platform.
-- [Vulcand](https://github.com/mailgun/vulcand): Programmatic load balancer backed by Etcd.
+- [Vulcand](https://github.com/vulcand/vulcand): Programmatic load balancer backed by Etcd.
 - [Zuul](https://github.com/Netflix/zuul): An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
 - [Kong](https://getkong.org/): An open-source management layer for APIs, delivering high performance and reliability.
 - [Janus](https://github.com/hellofresh/janus): A lightweight API Gateway written in Go by [Hello Fresh](https://engineering.hellofresh.com).
-- [fabio](https://github.com/eBay/fabio): A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by [consul](https://www.consul.io) by eBay.
+- [fabio](https://github.com/fabiolb/fabio): A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by [consul](https://www.consul.io) by eBay.
 
 ## API Security
 - [API Security checklist](https://github.com/shieldfy/API-Security-Checklist): Checklist of the most important security countermeasures when designing, testing, and releasing your API.
 
 ## API Monitoring
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
-- [Galileo](https://www.apianalytics.com/): API Monitoring Platform.
+- [Galileo](https://getgalileo.io/): API Monitoring Platform.
 - [Ping-API](https://ping-api.com/): Automated API Testing.
 
 ## API Testing
@@ -262,11 +262,11 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [API Evangelist](http://apievangelist.com/blog/)
 
 ## References
-- [HTTP Status Codes Reference](http://httpstatus.es/)
+- [HTTP Status Codes Reference](https://httpstatuses.com/)
 
 ## Contributing
 
-[Pull Requests](https://github.com/Leventhan/api-development-tools/pulls) are most welcome!
+[Pull Requests](https://github.com/yosriady/api-development-tools/pulls) are most welcome!
 
 Please write a brief one-sentence summary when adding a new resource.
 
