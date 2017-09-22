@@ -248,6 +248,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [API University](https://www.programmableweb.com/api-university)
 - [RESTful Web Services](http://shop.oreilly.com/product/9780596529260.do)
 - [RESTful Web APIs](http://shop.oreilly.com/product/0636920028468.do)
+- [The Ten Essentials for Good API Documentation](https://alistapart.com/article/the-ten-essentials-for-good-api-documentation)
 
 ## Blogs
 - [API Evangelist](http://apievangelist.com/blog/)
