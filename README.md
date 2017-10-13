@@ -140,6 +140,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 ### General
 - [Swagger CodeGen](https://github.com/swagger-api/swagger-codegen): Generate client libraries automatically from a Swagger-compliant server.
 - [sdks.io](https://sdks.io/): Explore Automatically Generated SDKs.
+- [AutoRest](https://github.com/Azure/autorest): Generate client libraries for RESTful web services
+- [Unirest](http://unirest.io/): Lightweight HTTP-Request client libraries for several languages
 
 ### Ruby
 - [heroics](https://github.com/interagent/heroics): Ruby HTTP client for APIs represented with JSON schema.
