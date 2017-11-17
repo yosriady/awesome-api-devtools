@@ -191,6 +191,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [The RESTed NARWHL](https://www.narwhl.com/)
 - [White House Web API Standards](https://github.com/whitehouse/api-standards)
 - [Zalando REST API Guidelines](https://zalando.github.io/restful-api-guidelines/)
+- [API Stylebook Design Guidelines](http://apistylebook.com/design/guidelines/)
+- [API Stylebook Design Topics](http://apistylebook.com/design/topics/)
 
 ## API Publishing
 - [Mashape](https://www.mashape.com/): API Marketplace.
