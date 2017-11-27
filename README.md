@@ -13,7 +13,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 *  [API Client Development Tools](#api-client-development-tools)
 *  [API Documentation](#api-documentation)
 *  [API Clients](#api-clients)
-*  [API Debugging and Mocking](#api-mocking)
+*  [API Debugging and Mocking](#api-debugging-and-mocking)
 *  [API Design Guides](#api-design-guides)
 *  [API Publishing](#api-publishing)
 *  [API Gateways](#api-gateways)
