@@ -13,6 +13,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 *  [API Client Development Tools](#api-client-development-tools)
 *  [API Documentation](#api-documentation)
 *  [API Clients](#api-clients)
+*  [API Debugging and Mocking](#api-mocking)
 *  [API Design Guides](#api-design-guides)
 *  [API Publishing](#api-publishing)
 *  [API Gateways](#api-gateways)
@@ -169,17 +170,32 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Docbox](https://github.com/tmcw/docbox): REST API documentation generator, using Markdown.
 
 ## API Clients
-- [HTTPie](https://httpie.org/): Command line HTTP client.
-- [Postman](https://www.getpostman.com/): Desktop API testing tool.
-- [Paw](https://paw.cloud/): REST client for Mac.
-- [Insomnia](https://insomnia.rest/): REST API client for Mac, Windows, and Linux.
-- [MockBin](https://mockbin.com/): Generate mock HTTP endpoints.
-- [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
-- [RequestBin](https://requestb.in/): Inspect and debug webhook POST requests.
+
+### Hosted
 - [Hurl.it](https://www.hurl.it/): Web-based HTTP client.
+- [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
+
+### Desktop
+- [HTTPie](https://httpie.org/): Command line HTTP client.
 - [HttpMaster](https://www.httpmaster.net/): Desktop tool for REST API testing.
+- [Paw](https://paw.cloud/): REST client for Mac.
+- [Postman](https://www.getpostman.com): Desktop API testing tool.
+- [Insomnia](https://insomnia.rest/): REST API client for Mac, Windows, and Linux.
 - [Jsonium](http://jsonium.org/): Free REST client for JSON over HTTP protocols
 - [I'm only Resting](http://www.swensensoftware.com/im-only-resting): Windows GUI tool for REST API testing
+
+## API Debugging and Mocking
+
+### Hosted
+- [Beeceptor](https://beeceptor.com): An HTTP-proxy for rest APIs - inspect and build mock APIs.
+- [MockBin](https://mockbin.com/): Generate mock HTTP endpoints.
+- [RequestBin](https://requestb.in/): Inspect and debug webhook POST requests.
+- [httpbin](http://httpbin.org): Templated responses for testing various scenarios for HTTP requests.
+
+### Desktop 
+- [Json-Server](https://github.com/typicode/json-server) Full fake REST API with zero coding.
+- [Postman](https://www.getpostman.com/docs/postman/mock_servers/setting_up_mock): Desktop API client and mocking tool.
+
 
 ## API Design Guides
 - [Google API Design Guide](https://cloud.google.com/apis/design/)
