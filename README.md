@@ -114,6 +114,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Haskell
 - [Scotty](https://github.com/scotty-web/scotty): Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
+- [Spock](https://github.com/agrafix/Spock): Another Haskell web framework for rapid development.
+- [Servant](https://github.com/haskell-servant/servant): A Type-Level Web DSL.
 - [Yesod](https://github.com/yesodweb/yesod): The Haskell RESTful web framework.
 
 ### Elixir
