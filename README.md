@@ -68,6 +68,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [flask-restful](https://github.com/flask-restful/flask-restful): Simple framework for creating REST APIs.
 - [Falcon](https://github.com/falconry/falcon): Falcon is a low-level, high-performance Python framework for building HTTP APIs, app backends, and higher-level frameworks.
 - [Connexion](https://github.com/zalando/connexion): Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support
+- [apistar](https://github.com/encode/apistar): A smart Web API framework, designed for Python3.
 
 ### Javascript
 - [hapi.js](https://hapijs.com/): Web and services application framework for Node.js.
