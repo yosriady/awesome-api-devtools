@@ -69,6 +69,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Falcon](https://github.com/falconry/falcon): Falcon is a low-level, high-performance Python framework for building HTTP APIs, app backends, and higher-level frameworks.
 - [Connexion](https://github.com/zalando/connexion): Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support
 - [apistar](https://github.com/encode/apistar): A smart Web API framework, designed for Python3.
+- [sanic](https://github.com/channelcat/sanic): Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
+- [hug](https://github.com/timothycrosley/hug): hug aims to make developing Python driven APIs as simple as possible, but no simpler.
 
 ### Javascript
 - [hapi.js](https://hapijs.com/): Web and services application framework for Node.js.
