@@ -32,6 +32,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Swagger](https://swagger.io/)
 
 ## API Specification Tools
+- [Swagger Inspector](https://swagger.io/swagger-inspector/): Test and auto-generate OpenAPI documentation for any API.
 - [Swagger Editor](http://editor.swagger.io/): An editor for designing Swagger specifications.
 - [Swagger Tools and Integrations](https://swagger.io/open-source-integrations/): A list of libraries and frameworks serving the Swagger ecosystem.
 - [OpenAPI Spec Tooling](http://definitions.apievangelist.com/#Tools): A list of libraries and frameworks serving the OpenAPI ecosystem.
