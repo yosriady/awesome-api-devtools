@@ -242,9 +242,12 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Kong](https://getkong.org/): An open-source management layer for APIs, delivering high performance and reliability.
 - [Janus](https://github.com/hellofresh/janus): A lightweight API Gateway written in Go by [Hello Fresh](https://engineering.hellofresh.com).
 - [fabio](https://github.com/fabiolb/fabio): A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by [consul](https://www.consul.io) by eBay.
+- [Traefik](https://github.com/containous/traefik): Træfik (pronounced like traffic) is a modern HTTP reverse proxy and load balancer written in Go.
+- [Oathkeeper](https://github.com/ory/oathkeeper): OIdentity & Access Proxy (IAP) that authorizes HTTP requests based on sets of rules. Integrates with ORY Hydra. 
 
 ## API Security
 - [API Security checklist](https://github.com/shieldfy/API-Security-Checklist): Checklist of the most important security countermeasures when designing, testing, and releasing your API.
+- [Ory Hydra](https://github.com/ory/hydra): OAuth2 server with OpenID Connect written in Go.
 
 ## API Monitoring
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
