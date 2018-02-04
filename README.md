@@ -48,6 +48,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Restunited](https://restunited.com/): Generate SDK, Documentation with Testing and Debugging
 
 ## API Specifications
+- [API Commons](http://apicommons.org/): A repository of language-agnostic API specifications / Data Models.
 - [APIS.guru](https://apis.guru/openapi-directory/): Directory of API specs in OpenAPI(aka Swagger) 2.0 format.
 - [AnyAPI](https://any-api.com/): Documentation and Test Consoles for Public APIs.
 
