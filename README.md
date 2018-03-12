@@ -164,6 +164,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### .NET
 - [Refit](https://github.com/paulcbetts/refit): The automatic type-safe REST library for .NET Core, Xamarin and .NET
+- [WebAnchor](https://github.com/mattiasnordqvist/Web-Anchor): Web Anchor provides type-safe, testable and flexible access to web resources.
 
 ## API Documentation
 - [ReDoc](https://github.com/Rebilly/ReDoc): OpenAPI/Swagger-generated API Reference Documentation.
