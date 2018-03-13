@@ -29,7 +29,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [API Blueprint](https://github.com/apiaryio/api-blueprint)
 - [JSON Schema](http://json-schema.org/)
 - [RAML](https://raml.org/)
-- [Swagger](https://swagger.io/)
+- [OpenAPI (formerly known as Swagger)](https://github.com/OAI/OpenAPI-Specification)
 
 ## API Specification Tools
 - [Swagger Inspector](https://swagger.io/swagger-inspector/): Test and auto-generate OpenAPI documentation for any API.
