@@ -259,6 +259,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Testing
 - [Assertible](https://assertible.com): Continuously test and monitor your APIs after deployments and across environments.
 - [Pyresttest](https://github.com/svanoort/pyresttest): YAML based REST testing and API microbenchmarking tool
+- [OWASP Zaproxy](https://github.com/zaproxy/zaproxy): A tool to test your API for known security vulnerabilities, with a great CI integration.
 
 ## JSON Format Standards
 - [HAL](http://stateless.co/hal_specification.html)
