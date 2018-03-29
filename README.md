@@ -222,6 +222,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Zalando REST API Guidelines](https://zalando.github.io/restful-api-guidelines/)
 - [API Stylebook Design Guidelines](http://apistylebook.com/design/guidelines/)
 - [API Stylebook Design Topics](http://apistylebook.com/design/topics/)
+- [Adidas-group API Design Guide](https://github.com/adidas-group/api-guidelines)
 
 ## API Publishing
 - [Mashape](https://www.mashape.com/): API Marketplace.
