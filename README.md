@@ -179,6 +179,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [API Docs](https://api-docs.io/): Hosted public API documentation for OAS (Swagger) and RAML specs.
 - [Docula](https://docu.la/): Documentation using Github and OpenAPI standards.
 - [Docbox](https://github.com/tmcw/docbox): REST API documentation generator, using Markdown.
+- [widdershins](https://github.com/Mermade/widdershins): REST API documentation generator from OpenAPI 3.0 / Swagger 2.0 / AsyncAPI 1.x / Semoasa 0.1.0 definition
 
 ## API Clients
 
