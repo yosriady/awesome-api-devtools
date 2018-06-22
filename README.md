@@ -134,6 +134,9 @@ Contributions are most welcome. Categories are also open to suggestions!
 ### Postgres
 - [PostgREST](https://github.com/begriffs/postgrest): Serve a RESTful API from any existing PostgreSQL database.
 
+### MySQL
+- [xmysql](https://github.com/o1lab/xmysql): Generate REST APIs for any MySQL Database.
+
 ### PHP
 - [API Platform](https://github.com/api-platform/api-platform): API framework on top of Symfony with JSON-LD, Schema.org and Hydra support
 - [Dingo API](https://github.com/dingo/api): A RESTful API package for the Laravel and Lumen frameworks
