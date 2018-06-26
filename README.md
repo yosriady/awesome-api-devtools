@@ -133,6 +133,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Postgres
 - [PostgREST](https://github.com/begriffs/postgrest): Serve a RESTful API from any existing PostgreSQL database.
+- [pREST](https://github.com/prest/prest): pREST is a way to serve a RESTful API from any databases written in Go.
 
 ### MySQL
 - [xmysql](https://github.com/o1lab/xmysql): Generate REST APIs for any MySQL Database.
