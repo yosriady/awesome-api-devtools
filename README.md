@@ -142,6 +142,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Dingo API](https://github.com/dingo/api): A RESTful API package for the Laravel and Lumen frameworks
 - [Fractal](https://github.com/thephpleague/fractal): Fractal provides a presentation and transformation layer for complex data output, the like found in RESTful APIs, and works really well with JSON
 - [Yii2 Framework](https://github.com/yiisoft/yii2): Provides a whole set of tools to simplify the task of implementing RESTful Web Service APIs
+- [Expressive](https://docs.zendframework.com/zend-expressive/): Expressive allows you to write PSR-15 middleware applications for the web
+
 
 ### Miscellaneous
 - [Dream Factory](https://github.com/dreamfactorysoftware/dreamfactory): Turn any database into an API platform.
