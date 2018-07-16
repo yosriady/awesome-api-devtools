@@ -154,6 +154,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [sdks.io](https://sdks.io/): Explore Automatically Generated SDKs.
 - [AutoRest](https://github.com/Azure/autorest): Generate client libraries for RESTful web services
 - [Unirest](http://unirest.io/): Lightweight HTTP-Request client libraries for several languages
+- [OpenAPI Generator](https://github.com/openapitools/openapi-generator): A community fork of Swagger Codegen to automatically generate API clients, server stubs and documentation for REST APIs given an OpenAPI/Swagger spec.
 
 ### Ruby
 - [heroics](https://github.com/interagent/heroics): Ruby HTTP client for APIs represented with JSON schema.
