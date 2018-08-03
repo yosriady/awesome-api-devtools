@@ -20,6 +20,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 *  [API Security](#api-security)
 *  [API Monitoring](#api-monitoring)
 *  [API Testing](#api-testing)
+*  [API Developer Portal](#api-developer-portal)
 *  [JSON Format Standards](#json-format-standards)
 *  [Learning Resources](#learning-resources)
 *  [Blogs](#blogs)
@@ -38,7 +39,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [OpenAPI Spec Tooling](http://definitions.apievangelist.com/#Tools): A list of libraries and frameworks serving the OpenAPI ecosystem.
 - [API Studio](http://apistudio.io/). Write, mock, and share your Swagger specifications online.
 - [Dredd](https://github.com/apiaryio/dredd): Validate API documentation written in API Blueprint against its backend implementation.
-- [APITransformer](https://apitransformer.com/): Transform API Descriptions from/to various formats e.g., Swagger, API Blueprint, RAML, WADL, Google Discovery, I/O Docs.
 - [Restlet Studio](https://restlet.com/modules/studio/): Web IDE for API Design.
 - [API Spec Converter](https://lucybot-inc.github.io/api-spec-converter/): Convert between different API spec formats.
 - [Prism](http://stoplight.io/platform/prism/): Supercharge any OAS file with mocking, transformations, validations, and more.
@@ -267,6 +267,14 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Assertible](https://assertible.com): Continuously test and monitor your APIs after deployments and across environments.
 - [Pyresttest](https://github.com/svanoort/pyresttest): YAML based REST testing and API microbenchmarking tool
 - [OWASP Zaproxy](https://github.com/zaproxy/zaproxy): A tool to test your API for known security vulnerabilities, with a great CI integration.
+
+## API Developer Portal
+- [Tyk](https://tyk.io/features): API Developer Portal on top of API gateway, make your API gateway easier to be used by developers.
+- [APIMATIC](https://apimatic.io/developer-experience-portal): Instantly build an API Portal with SDKs, Live Code Samples, Test Cases, API Transformation and language specific Docs & Reference - tailored for your API.
+- [DWOLLA](https://developers.dwolla.com): Simple and powerful API for ACH transfers.
+- [Fusio](https://www.fusio-project.org): Fusio is an open source API management platform which helps to build and manage REST APIs. Fusio provides all tools to quickly build an API from different data sources yet it is possible to create complete customized responses.
+- [Gravitee](https://gravitee.io): Open source API platform, unleash the power of your APIs.
+- [Wicked Haufe](https://wicked.haufe.io): Open Source API Management. A full stack open source solution to API Management, based on Mashape's Kong, node.js, and docker.
 
 ## JSON Format Standards
 - [HAL](http://stateless.co/hal_specification.html)
