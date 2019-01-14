@@ -157,6 +157,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [OpenAPI Generator](https://github.com/openapitools/openapi-generator): A community fork of Swagger Codegen to automatically generate API clients, server stubs and documentation for REST APIs given an OpenAPI/Swagger spec.
 
 ### Ruby
+- [Net::HTTP](https://apidock.com/ruby/Net/HTTP): An HTTP client API for Ruby.
+- [faraday](https://github.com/lostisland/faraday): Simple, but flexible HTTP client library, with support for multiple backends.
 - [heroics](https://github.com/interagent/heroics): Ruby HTTP client for APIs represented with JSON schema.
 - [blanket](https://github.com/inf0rmer/blanket): A Ruby API wrapper.
 - [nestful](https://github.com/maccman/nestful): Ruby HTTP/REST client.
