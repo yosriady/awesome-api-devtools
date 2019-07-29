@@ -232,6 +232,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [API Stylebook Design Guidelines](http://apistylebook.com/design/guidelines/)
 - [API Stylebook Design Topics](http://apistylebook.com/design/topics/)
 - [Adidas-group API Design Guide](https://github.com/adidas-group/api-guidelines)
+- [Azure API Design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 ## API Publishing
 - [Mashape](https://www.mashape.com/): API Marketplace.
