@@ -193,7 +193,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Clients
 
 ### Hosted
-- [Hurl.it](https://www.hurl.it/): Web-based HTTP client.
+- [ExtendsClass](https://extendsclass.com/rest-client-online.html): Web-based HTTP client.
 - [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
 
 ### Desktop
