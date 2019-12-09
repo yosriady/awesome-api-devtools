@@ -197,6 +197,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
 
 ### Desktop
+- [Firecamp](https://firecamp.app): API Studio for WebSocket, Rest API and GraphQL.
 - [HTTPie](https://httpie.org/): Command line HTTP client.
 - [HttpMaster](https://www.httpmaster.net/): Desktop tool for REST API testing.
 - [Paw](https://paw.cloud/): REST client for Mac.
