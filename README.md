@@ -268,7 +268,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## API Monitoring
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
-- [Galileo](https://getgalileo.io/): API Monitoring Platform.
 - [Ping-API](https://ping-api.com/): Automated API Testing.
 
 ## API Testing
@@ -293,7 +292,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Ion](https://github.com/ionwg/ion-doc)
 
 ## Learning Resources
-- [Choosing an HTTP Status Code](http://racksburg.com/choosing-an-http-status-code/)
 - [REST in Practice](http://shop.oreilly.com/product/9780596805838.do)
 - [Roy Fielding's dissertation on REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 - [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
