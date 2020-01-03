@@ -151,6 +151,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Client Development Tools
 
 ### General
+- [OpenAPI extension for Microsoft Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi): Microsoft VS Code IDE has an OpenAPI extension that includes OpenAPI / Swagger file creation, editing, navigation, code snippets, IntelliSense, security static analysis.
 - [Swagger CodeGen](https://github.com/swagger-api/swagger-codegen): Generate client libraries automatically from a Swagger-compliant server.
 - [sdks.io](https://sdks.io/): Explore Automatically Generated SDKs.
 - [AutoRest](https://github.com/Azure/autorest): Generate client libraries for RESTful web services
@@ -262,9 +263,11 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Oathkeeper](https://github.com/ory/oathkeeper): OIdentity & Access Proxy (IAP) that authorizes HTTP requests based on sets of rules. Integrates with ORY Hydra. 
 
 ## API Security
+- [Online OpenAPI/Swagger File Security Audit](https://apisecurity.io/tools/audit/): Free online static analysis of API contract files. Upload the file and get the report.
 - [API Security checklist](https://github.com/shieldfy/API-Security-Checklist): Checklist of the most important security countermeasures when designing, testing, and releasing your API.
 - [Ory Hydra](https://github.com/ory/hydra): OAuth2 server with OpenID Connect written in Go.
 - [Approov](https://approov.io/): Mobile App Attestation to ban API abuse by verifying the software that is accessing your API. User authentication is not enough!
+- [42Crunch](https://42crunch.com/): API Security platform that includes static analysis, dynamic testing (scan), and runtime protection (API firewall.)
 
 ## API Monitoring
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
