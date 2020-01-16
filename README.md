@@ -206,6 +206,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Insomnia](https://insomnia.rest/): REST API client for Mac, Windows, and Linux.
 - [Jsonium](http://jsonium.org/): Free REST client for JSON over HTTP protocols
 - [I'm only Resting](http://www.swensensoftware.com/im-only-resting): Windows GUI tool for REST API testing
+- [HttpRider](https://www.httprider.com/): Cross-Platform Opensource Desktop tool for API testing.
 
 ## API Debugging and Mocking
 
