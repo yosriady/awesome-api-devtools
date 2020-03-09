@@ -51,6 +51,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [API Commons](http://apicommons.org/): A repository of language-agnostic API specifications / Data Models.
 - [APIS.guru](https://apis.guru/openapi-directory/): Directory of API specs in OpenAPI(aka Swagger) 2.0 format.
 - [AnyAPI](https://any-api.com/): Documentation and Test Consoles for Public APIs.
+- [OpenAPI3 Definition Designer](https://interaction-design.co.za/openapidesigner/): Visually Design OpenAPI 3 definitions for free. 
 
 ## API Frameworks
 
