@@ -73,6 +73,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [apistar](https://github.com/encode/apistar): A smart Web API framework, designed for Python3.
 - [sanic](https://github.com/channelcat/sanic): Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
 - [hug](https://github.com/timothycrosley/hug): hug aims to make developing Python driven APIs as simple as possible, but no simpler.
+- [FastAPI](https://github.com/tiangolo/fastapi): FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. 
 
 ### Javascript
 - [hapi.js](https://hapijs.com/): Web and services application framework for Node.js.
