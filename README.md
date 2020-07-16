@@ -46,6 +46,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Mulesoft Anypoint](https://anypoint.mulesoft.com/): Design and publish enterprise-grade APIs using RAML
 - [Sandbox](https://getsandbox.com/): Quick and easy mock RESTful API from API definitions
 - [Restunited](https://restunited.com/): Generate SDK, Documentation with Testing and Debugging
+- [OpenAPI Definition Designer](https://interaction-design.co.za/openapidesigner/): Free visual OpenAPI3 definition creation and editing tool.
 
 ## API Specifications
 - [API Commons](http://apicommons.org/): A repository of language-agnostic API specifications / Data Models.
