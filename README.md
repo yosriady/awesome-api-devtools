@@ -149,6 +149,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Miscellaneous
 - [Dream Factory](https://github.com/dreamfactorysoftware/dreamfactory): Turn any database into an API platform.
+- [Linx](https://linx.software):  Design, implement and host APIs in low-code.
 
 ## API Client Development Tools
 
@@ -208,6 +209,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Insomnia](https://insomnia.rest/): REST API client for Mac, Windows, and Linux.
 - [Jsonium](http://jsonium.org/): Free REST client for JSON over HTTP protocols
 - [I'm only Resting](http://www.swensensoftware.com/im-only-resting): Windows GUI tool for REST API testing
+- [Linx](https://linx.software): Desktop IDE for building APIs and microservices
 
 ## API Debugging and Mocking
 
