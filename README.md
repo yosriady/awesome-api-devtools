@@ -241,6 +241,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## API Publishing
 - [Mashape](https://www.mashape.com/): API Marketplace.
+- [Abstract API's](https://www.abstractapi.com): Whitelabeled API marketplace.
 
 ## API Gateways
 - [Ambassador API Gateway](https://www.getambassador.io/): Ambassador is a specialized control plane that translates Kubernetes annotations to Envoy configuration. All traffic is directly handled by the high-performance Envoy Proxy.
@@ -318,6 +319,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## References
 - [HTTP Status Codes Reference](https://httpstatuses.com/)
+- [Overview and examples of HTTP Status Codes](https://www.abstractapi.com/http-status-codes)
 
 ## Contributing
 [Pull Requests](https://github.com/yosriady/api-development-tools/pulls) are most welcome!
