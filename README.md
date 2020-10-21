@@ -296,6 +296,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [JSON Schema](http://json-schema.org/)
 - [Hydra](http://www.hydra-cg.com/)
 - [Ion](https://github.com/ionwg/ion-doc)
+- [JSON-LD](https://json-ld.org/)
 
 ## Learning Resources
 - [REST in Practice](http://shop.oreilly.com/product/9780596805838.do)
