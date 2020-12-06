@@ -313,6 +313,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [RESTful Web Services](http://shop.oreilly.com/product/9780596529260.do)
 - [RESTful Web APIs](http://shop.oreilly.com/product/0636920028468.do)
 - [The Ten Essentials for Good API Documentation](https://alistapart.com/article/the-ten-essentials-for-good-api-documentation)
+- [Create an Open Banking App Using OpenAPIs and Spring Boot](https://www.manning.com/liveproject/create-an-open-banking-app-using-openapis-and-spring-boot)
 
 ## Blogs
 - [API Evangelist](http://apievangelist.com/blog/)
