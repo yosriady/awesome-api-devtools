@@ -36,6 +36,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Swagger Inspector](https://swagger.io/tools/swagger-inspector/): Test and auto-generate OpenAPI documentation for any API.
 - [Swagger Editor](http://editor.swagger.io/): An editor for designing Swagger specifications.
 - [Swagger Tools and Integrations](https://swagger.io/open-source-integrations/): A list of libraries and frameworks serving the Swagger ecosystem.
+- [OpenAPI extension for Microsoft Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi): Microsoft VS Code IDE has an OpenAPI extension that includes OpenAPI / Swagger file creation, HTML preview, editing, navigation, code snippets, IntelliSense, security static analysis.
+- [OpenAPI extension for JetBrains IDEs: IntelliJ, PyCharm, etc](https://plugins.jetbrains.com/plugin/14837-openapi-swagger-editor): This IDE plugin for JetBrains includes OpenAPI / Swagger file creation, HTML preview, editing, navigation, code snippets, IntelliSense, security static analysis.
 - [OpenAPI Spec Tooling](http://definitions.apievangelist.com/#Tools): A list of libraries and frameworks serving the OpenAPI ecosystem.
 - [API Studio](http://apistudio.io/). Write, mock, and share your Swagger specifications online.
 - [Dredd](https://github.com/apiaryio/dredd): Validate API documentation written in API Blueprint against its backend implementation.
@@ -154,7 +156,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Client Development Tools
 
 ### General
-- [OpenAPI extension for Microsoft Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi): Microsoft VS Code IDE has an OpenAPI extension that includes OpenAPI / Swagger file creation, editing, navigation, code snippets, IntelliSense, security static analysis.
 - [Swagger CodeGen](https://github.com/swagger-api/swagger-codegen): Generate client libraries automatically from a Swagger-compliant server.
 - [sdks.io](https://sdks.io/): Explore Automatically Generated SDKs.
 - [AutoRest](https://github.com/Azure/autorest): Generate client libraries for RESTful web services
@@ -299,6 +300,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [JSON-LD](https://json-ld.org/)
 
 ## Learning Resources
+- [APIsecurity.io weekly newsletter and encyclopedia on API Security](https://apisecurity.io)
 - [REST in Practice](http://shop.oreilly.com/product/9780596805838.do)
 - [Roy Fielding's dissertation on REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 - [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
