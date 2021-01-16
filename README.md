@@ -37,7 +37,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Swagger Editor](http://editor.swagger.io/): An editor for designing Swagger specifications.
 - [Swagger Tools and Integrations](https://swagger.io/open-source-integrations/): A list of libraries and frameworks serving the Swagger ecosystem.
 - [OpenAPI extension for VS Code](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi):  Visual Studio Code (VS Code) extension that provides support for the OpenAPI Specification.
-- [OpenAPI extension for JetBrains IDEs: IntelliJ, PyCharm, etc](https://plugins.jetbrains.com/plugin/14837-openapi-swagger-editor): This IDE plugin for JetBrains includes OpenAPI / Swagger file creation, HTML preview, editing, navigation, code snippets, IntelliSense, security static analysis.
+- [OpenAPI plugin for JetBrains IDEs](https://plugins.jetbrains.com/plugin/14837-openapi-swagger-editor): Jetbrains plugin that provides support for the OpenAPI Specification.
 - [OpenAPI Spec Tooling](http://definitions.apievangelist.com/#Tools): A list of libraries and frameworks serving the OpenAPI ecosystem.
 - [API Studio](http://apistudio.io/). Write, mock, and share your Swagger specifications online.
 - [Dredd](https://github.com/apiaryio/dredd): Validate API documentation written in API Blueprint against its backend implementation.
