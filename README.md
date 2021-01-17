@@ -36,6 +36,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Swagger Inspector](https://swagger.io/tools/swagger-inspector/): Test and auto-generate OpenAPI documentation for any API.
 - [Swagger Editor](http://editor.swagger.io/): An editor for designing Swagger specifications.
 - [Swagger Tools and Integrations](https://swagger.io/open-source-integrations/): A list of libraries and frameworks serving the Swagger ecosystem.
+- [OpenAPI extension for VS Code](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi):  Visual Studio Code (VS Code) extension that provides support for the OpenAPI Specification.
+- [OpenAPI plugin for JetBrains IDEs](https://plugins.jetbrains.com/plugin/14837-openapi-swagger-editor): Jetbrains plugin that provides support for the OpenAPI Specification.
 - [Dredd](https://github.com/apiaryio/dredd): Validate API documentation written in API Blueprint against its backend implementation.
 - [API Spec Converter](https://lucybot-inc.github.io/api-spec-converter/): Convert between different API spec formats.
 - [Apimatic](https://www.apimatic.io/): Supports API description formats including Swagger, OAI format, RAML, API Blueprint, IO Docs, WADL, Postman Collections and HAR 1.4 and more
@@ -149,7 +151,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Client Development Tools
 
 ### General
-- [OpenAPI extension for Microsoft Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi): Microsoft VS Code IDE has an OpenAPI extension that includes OpenAPI / Swagger file creation, editing, navigation, code snippets, IntelliSense, security static analysis.
 - [Swagger CodeGen](https://github.com/swagger-api/swagger-codegen): Generate client libraries automatically from a Swagger-compliant server.
 - [AutoRest](https://github.com/Azure/autorest): Generate client libraries for RESTful web services
 - [OpenAPI Generator](https://github.com/openapitools/openapi-generator): A community fork of Swagger Codegen to automatically generate API clients, server stubs and documentation for REST APIs given an OpenAPI/Swagger spec.
@@ -290,6 +291,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [RESTful Web Services](http://shop.oreilly.com/product/9780596529260.do)
 - [RESTful Web APIs](http://shop.oreilly.com/product/0636920028468.do)
 - [The Ten Essentials for Good API Documentation](https://alistapart.com/article/the-ten-essentials-for-good-api-documentation)
+- [APIsecurity.io weekly newsletter](https://apisecurity.io)
 
 ## Blogs
 - [API Evangelist](http://apievangelist.com/blog/)
