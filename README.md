@@ -38,14 +38,9 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Swagger Tools and Integrations](https://swagger.io/open-source-integrations/): A list of libraries and frameworks serving the Swagger ecosystem.
 - [OpenAPI extension for VS Code](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi):  Visual Studio Code (VS Code) extension that provides support for the OpenAPI Specification.
 - [OpenAPI plugin for JetBrains IDEs](https://plugins.jetbrains.com/plugin/14837-openapi-swagger-editor): Jetbrains plugin that provides support for the OpenAPI Specification.
-- [OpenAPI Spec Tooling](http://definitions.apievangelist.com/#Tools): A list of libraries and frameworks serving the OpenAPI ecosystem.
-- [API Studio](http://apistudio.io/). Write, mock, and share your Swagger specifications online.
 - [Dredd](https://github.com/apiaryio/dredd): Validate API documentation written in API Blueprint against its backend implementation.
-- [Restlet Studio](https://restlet.com/modules/studio/): Web IDE for API Design.
 - [API Spec Converter](https://lucybot-inc.github.io/api-spec-converter/): Convert between different API spec formats.
-- [Prism](http://stoplight.io/platform/prism/): Supercharge any OAS file with mocking, transformations, validations, and more.
 - [Apimatic](https://www.apimatic.io/): Supports API description formats including Swagger, OAI format, RAML, API Blueprint, IO Docs, WADL, Postman Collections and HAR 1.4 and more
-- [Mulesoft Anypoint](https://anypoint.mulesoft.com/): Design and publish enterprise-grade APIs using RAML
 - [Sandbox](https://getsandbox.com/): Quick and easy mock RESTful API from API definitions
 - [Restunited](https://restunited.com/): Generate SDK, Documentation with Testing and Debugging
 - [OpenAPI Definition Designer](https://openapidesigner.com): Free visual OpenAPI3 definition creation and editing tool.
@@ -157,9 +152,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### General
 - [Swagger CodeGen](https://github.com/swagger-api/swagger-codegen): Generate client libraries automatically from a Swagger-compliant server.
-- [sdks.io](https://sdks.io/): Explore Automatically Generated SDKs.
 - [AutoRest](https://github.com/Azure/autorest): Generate client libraries for RESTful web services
-- [Unirest](http://unirest.io/): Lightweight HTTP-Request client libraries for several languages
 - [OpenAPI Generator](https://github.com/openapitools/openapi-generator): A community fork of Swagger Codegen to automatically generate API clients, server stubs and documentation for REST APIs given an OpenAPI/Swagger spec.
 
 ### Ruby
@@ -188,42 +181,33 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Aglio](https://github.com/danielgtaylor/aglio): An API Blueprint renderer with theme support that outputs static HTML.
 - [Apiary](https://apiary.io/): Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
 - [Readme](https://readme.io/): API Documentation Hosting.
-- [Embed curl](https://www.embedcurl.com/): Embeddable curl commands on the web.
-- [Gelato](https://gelato.io/): Create developer portals for your API.
 - [API Docs](https://api-docs.io/): Hosted public API documentation for OAS (Swagger) and RAML specs.
-- [Docula](https://docu.la/): Documentation using Github and OpenAPI standards.
 - [Docbox](https://github.com/tmcw/docbox): REST API documentation generator, using Markdown.
 - [widdershins](https://github.com/Mermade/widdershins): REST API documentation generator from OpenAPI 3.0 / Swagger 2.0 / AsyncAPI 1.x / Semoasa 0.1.0 definition
 
 ## API Clients
 
 ### Hosted
-- [ExtendsClass](https://extendsclass.com/rest-client-online.html): Web-based HTTP client.
 - [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
 
 ### Desktop
+- [Postman](https://www.getpostman.com): Desktop API testing tool.
 - [Firecamp](https://firecamp.app): API Studio for WebSocket, Rest API and GraphQL.
 - [HTTPie](https://httpie.org/): Command line HTTP client.
-- [HttpMaster](https://www.httpmaster.net/): Desktop tool for REST API testing.
 - [Paw](https://paw.cloud/): REST client for Mac.
-- [Postman](https://www.getpostman.com): Desktop API testing tool.
 - [Insomnia](https://insomnia.rest/): REST API client for Mac, Windows, and Linux.
-- [Jsonium](http://jsonium.org/): Free REST client for JSON over HTTP protocols
-- [I'm only Resting](http://www.swensensoftware.com/im-only-resting): Windows GUI tool for REST API testing
 
 ## API Debugging and Mocking
 
 ### Hosted
 - [Beeceptor](https://beeceptor.com): An HTTP-proxy for rest APIs - inspect and build mock APIs.
 - [MockBin](https://mockbin.com/): Generate mock HTTP endpoints.
-- [RequestBin](https://requestb.in/): Inspect and debug webhook POST requests.
 - [httpbin](http://httpbin.org): Templated responses for testing various scenarios for HTTP requests.
 
 ### Desktop 
+- [Postman](https://www.getpostman.com/docs/postman/mock_servers/setting_up_mock): Desktop API client and mocking tool.
 - [Json-Server](https://github.com/typicode/json-server) Full fake REST API with zero coding.
 - [Mockoon](https://mockoon.com): Desktop API mocking tool.
-- [Postman](https://www.getpostman.com/docs/postman/mock_servers/setting_up_mock): Desktop API client and mocking tool.
-
 
 ## API Design Guides
 - [Google API Design Guide](https://cloud.google.com/apis/design/)
@@ -246,7 +230,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Gateways
 - [Ambassador API Gateway](https://www.getambassador.io/): Ambassador is a specialized control plane that translates Kubernetes annotations to Envoy configuration. All traffic is directly handled by the high-performance Envoy Proxy.
 - [AWS API Gateway](https://aws.amazon.com/api-gateway/): Traffic management, authorization and access control, monitoring, and API version management.
-- [API Umbrella](https://apiumbrella.io/): Proxy that sits in front of your APIs.
 - [APIAxle](https://github.com/apiaxle/apiaxle/): Proxy that sits in front of your APIs.
 - [APIGrove](https://apigrove.github.io/apigrove/): API manager built in Java on top of Fuse ESB.
 - [Apigee127](https://github.com/apigee-127/a127-documentation/wiki/What-is-Apigee-127): nodejs based API Gateway
@@ -271,7 +254,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [API Security checklist](https://github.com/shieldfy/API-Security-Checklist): Checklist of the most important security countermeasures when designing, testing, and releasing your API.
 - [Ory Hydra](https://github.com/ory/hydra): OAuth2 server with OpenID Connect written in Go.
 - [Approov](https://approov.io/): Mobile App Attestation to ban API abuse by verifying the software that is accessing your API. User authentication is not enough!
-- [42Crunch](https://42crunch.com/): API Security platform that includes static analysis, dynamic testing (scan), and runtime protection (API firewall.)
 
 ## API Monitoring
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
@@ -281,15 +263,10 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Assertible](https://assertible.com): Continuously test and monitor your APIs after deployments and across environments.
 - [Pyresttest](https://github.com/svanoort/pyresttest): YAML based REST testing and API microbenchmarking tool
 - [OWASP Zaproxy](https://github.com/zaproxy/zaproxy): A tool to test your API for known security vulnerabilities, with a great CI integration.
-- [vREST NG](https://ng.vrest.io): An enterprise ready application for automated API Testing. It is very simple and intuitive application.
 
 ## API Developer Portal
 - [Tyk](https://tyk.io/features): API Developer Portal on top of API gateway, make your API gateway easier to be used by developers.
 - [APIMATIC](https://apimatic.io/developer-experience-portal): Instantly build an API Portal with SDKs, Live Code Samples, Test Cases, API Transformation and language specific Docs & Reference - tailored for your API.
-- [DWOLLA](https://developers.dwolla.com): Simple and powerful API for ACH transfers.
-- [Fusio](https://www.fusio-project.org): Fusio is an open source API management platform which helps to build and manage REST APIs. Fusio provides all tools to quickly build an API from different data sources yet it is possible to create complete customized responses.
-- [Gravitee](https://gravitee.io): Open source API platform, unleash the power of your APIs.
-- [Wicked Haufe](https://wicked.haufe.io): Open Source API Management. A full stack open source solution to API Management, based on Mashape's Kong, node.js, and docker.
 
 ## JSON Format Standards
 - [HAL](http://stateless.co/hal_specification.html)
@@ -300,7 +277,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [JSON-LD](https://json-ld.org/)
 
 ## Learning Resources
-- [APIsecurity.io weekly newsletter and encyclopedia on API Security](https://apisecurity.io)
 - [REST in Practice](http://shop.oreilly.com/product/9780596805838.do)
 - [Roy Fielding's dissertation on REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 - [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
@@ -315,6 +291,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [RESTful Web Services](http://shop.oreilly.com/product/9780596529260.do)
 - [RESTful Web APIs](http://shop.oreilly.com/product/0636920028468.do)
 - [The Ten Essentials for Good API Documentation](https://alistapart.com/article/the-ten-essentials-for-good-api-documentation)
+- [APIsecurity.io weekly newsletter](https://apisecurity.io)
 
 ## Blogs
 - [API Evangelist](http://apievangelist.com/blog/)
