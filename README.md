@@ -98,7 +98,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Goat](https://github.com/bahlo/goat): Minimalistic REST API server in Go.
 - [Resoursea](https://github.com/resoursea/api): REST framework for quickly writing resource based services.
 - [Zerver](https://github.com/cosiner/zerver): Zerver is a expressive, modular, feature completed RESTful framework.
-- [Fibre](https://github.com/gofiber/fiber): :zap:Fiber is an Express inspired web framework written in Go with :coffee: .
+- [Fiber](https://github.com/gofiber/fiber): :zap:Fiber is an Express inspired web framework written in Go with :coffee: .
 
 ### Scala
 - [Colossus](https://github.com/tumblr/colossus): I/O and microservice library for Scala.
