@@ -113,7 +113,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Java
 - [Rest.li](http://rest.li/): REST framework using type-safe bindings and asynchronous, non-blocking IO.
-- [Dropwizard](http://www.dropwizard.io/1.0.0/docs/): Framework for developing ops-friendly, high-performance, RESTful web services.
+- [Dropwizard](https://www.dropwizard.io/en/latest/): Framework for developing ops-friendly, high-performance, RESTful web services.
 - [Jersey](https://jersey.java.net/): RESTful web services in Java.
 - [Spring Boot](https://projects.spring.io/spring-boot/): RESTful Web Service using Spring, high-performance and little configuration needed.
 - [Metamug Mason](https://github.com/metamug/mason): Create REST APIs with JSP tags and SQL. Edit and hot deploy REST resources on the server.
