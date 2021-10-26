@@ -264,6 +264,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Assertible](https://assertible.com): Continuously test and monitor your APIs after deployments and across environments.
 - [Pyresttest](https://github.com/svanoort/pyresttest): YAML based REST testing and API microbenchmarking tool
 - [OWASP Zaproxy](https://github.com/zaproxy/zaproxy): A tool to test your API for known security vulnerabilities, with a great CI integration.
+- [Testing Web APIs](https://www.manning.com/books/testing-web-apis): A book that teaches you the many ways in which APIs can be tested and how to put them into a testing strategy.
 
 ## API Developer Portal
 - [Tyk](https://tyk.io/features): API Developer Portal on top of API gateway, make your API gateway easier to be used by developers.
