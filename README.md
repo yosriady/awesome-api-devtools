@@ -293,6 +293,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [RESTful Web APIs](http://shop.oreilly.com/product/0636920028468.do)
 - [The Ten Essentials for Good API Documentation](https://alistapart.com/article/the-ten-essentials-for-good-api-documentation)
 - [APIsecurity.io weekly newsletter](https://apisecurity.io)
+- [Testing Web APIs](https://www.manning.com/books/testing-web-apis)
 
 ## Blogs
 - [API Evangelist](http://apievangelist.com/blog/)
