@@ -197,6 +197,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [HTTPie](https://httpie.org/): Command line HTTP client.
 - [Paw](https://paw.cloud/): REST client for Mac.
 - [Insomnia](https://insomnia.rest/): REST API client for Mac, Windows, and Linux.
+- [HttpMaster](https://www.httpmaster.net): Windows desktop tool for API testing.
 
 ## API Debugging and Mocking
 
