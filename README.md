@@ -256,6 +256,9 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Ory Hydra](https://github.com/ory/hydra): OAuth2 server with OpenID Connect written in Go.
 - [Approov](https://approov.io/): Mobile App Attestation to ban API abuse by verifying the software that is accessing your API. User authentication is not enough!
 
+## API Web Scanners
+- [Cherrybomb](https://github.com/blst-security/cherrybomb): Stop half-done API specifications! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
+
 ## API Monitoring
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
 - [Ping-API](https://ping-api.com/): Automated API Testing.
