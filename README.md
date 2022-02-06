@@ -27,10 +27,10 @@ Contributions are most welcome. Categories are also open to suggestions!
 *  [References](#references)
 
 ## API Specification Languages
+- [OpenAPI (formerly known as Swagger)](https://github.com/OAI/OpenAPI-Specification)
 - [API Blueprint](https://github.com/apiaryio/api-blueprint)
 - [JSON Schema](http://json-schema.org/)
 - [RAML](https://raml.org/)
-- [OpenAPI (formerly known as Swagger)](https://github.com/OAI/OpenAPI-Specification)
 
 ## API Specification Tools
 - [Swagger Inspector](https://swagger.io/tools/swagger-inspector/): Test and auto-generate OpenAPI documentation for any API.
@@ -41,8 +41,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Dredd](https://github.com/apiaryio/dredd): Validate API documentation written in API Blueprint against its backend implementation.
 - [API Spec Converter](https://lucybot-inc.github.io/api-spec-converter/): Convert between different API spec formats.
 - [Apimatic](https://www.apimatic.io/): Supports API description formats including Swagger, OAI format, RAML, API Blueprint, IO Docs, WADL, Postman Collections and HAR 1.4 and more
-- [Sandbox](https://getsandbox.com/): Quick and easy mock RESTful API from API definitions
-- [Restunited](https://restunited.com/): Generate SDK, Documentation with Testing and Debugging
 - [OpenAPI Definition Designer](https://openapidesigner.com): Free visual OpenAPI3 definition creation and editing tool.
 - [Stoplight Studio](https://stoplight.io/studio/): Create, prototype, and share OpenAPI descriptions and JSON Schemas using a visual editor.
 
@@ -229,9 +227,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Mashape](https://www.mashape.com/): API Marketplace.
 
 ## API Gateways
-- [Ambassador API Gateway](https://www.getambassador.io/): Ambassador is a specialized control plane that translates Kubernetes annotations to Envoy configuration. All traffic is directly handled by the high-performance Envoy Proxy.
 - [AWS API Gateway](https://aws.amazon.com/api-gateway/): Traffic management, authorization and access control, monitoring, and API version management.
-- [APIAxle](https://github.com/apiaxle/apiaxle/): Proxy that sits in front of your APIs.
+- [Ambassador API Gateway](https://www.getambassador.io/): Ambassador is a specialized control plane that translates Kubernetes annotations to Envoy configuration. All traffic is directly handled by the high-performance Envoy Proxy.
 - [APIGrove](https://apigrove.github.io/apigrove/): API manager built in Java on top of Fuse ESB.
 - [Apigee127](https://github.com/apigee-127/a127-documentation/wiki/What-is-Apigee-127): nodejs based API Gateway
 - [Pushpin](http://pushpin.org): Proxy for both request/response or streaming (long poll) of responses
@@ -254,7 +251,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Online OpenAPI/Swagger File Security Audit](https://apisecurity.io/tools/audit/): Free online static analysis of API contract files. Upload the file and get the report.
 - [API Security checklist](https://github.com/shieldfy/API-Security-Checklist): Checklist of the most important security countermeasures when designing, testing, and releasing your API.
 - [Ory Hydra](https://github.com/ory/hydra): OAuth2 server with OpenID Connect written in Go.
-- [Approov](https://approov.io/): Mobile App Attestation to ban API abuse by verifying the software that is accessing your API. User authentication is not enough!
 
 ## API Web Scanners
 - [Cherrybomb](https://github.com/blst-security/cherrybomb): Stop half-done API specifications! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
