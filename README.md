@@ -186,8 +186,10 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## API Clients
 
-### Hosted
+### Open Source
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch): API client for REST, GraphQL, Websocket, SSE, Socket.IO and MQTT
+
+### Hosted
 - [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
 
 ### Desktop
