@@ -43,6 +43,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Apimatic](https://www.apimatic.io/): Supports API description formats including Swagger, OAI format, RAML, API Blueprint, IO Docs, WADL, Postman Collections and HAR 1.4 and more
 - [OpenAPI Definition Designer](https://openapidesigner.com): Free visual OpenAPI3 definition creation and editing tool.
 - [Stoplight Studio](https://stoplight.io/studio/): Create, prototype, and share OpenAPI descriptions and JSON Schemas using a visual editor.
+- [Spectral](https://github.com/stoplightio/spectral): Define rulesets to lint YAML or JSON, including OpenAPI 2.x, 3.x and AsyncAPI
 
 ## API Specifications
 - [API Commons](http://apicommons.org/): A repository of language-agnostic API specifications / Data Models.
@@ -183,6 +184,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [API Docs](https://api-docs.io/): Hosted public API documentation for OAS (Swagger) and RAML specs.
 - [Docbox](https://github.com/tmcw/docbox): REST API documentation generator, using Markdown.
 - [widdershins](https://github.com/Mermade/widdershins): REST API documentation generator from OpenAPI 3.0 / Swagger 2.0 / AsyncAPI 1.x / Semoasa 0.1.0 definition
+- [Elements](https://github.com/stoplightio/elements): Web Components-based API documentation for OpenAPI 3.x/2.x
 
 ## API Clients
 
@@ -205,6 +207,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Beeceptor](https://beeceptor.com): An HTTP-proxy for rest APIs - inspect and build mock APIs.
 - [MockBin](https://mockbin.com/): Generate mock HTTP endpoints.
 - [httpbin](http://httpbin.org): Templated responses for testing various scenarios for HTTP requests.
+- [Prism](https://github.com/stoplightio/prism): a set of packages for API mocking and contract testing with OpenAPI v2 (formerly known as Swagger) and OpenAPI v3.x, including mock servers and a validation proxy.
 
 ### Desktop 
 - [Postman](https://www.getpostman.com/docs/postman/mock_servers/setting_up_mock): Desktop API client and mocking tool.
