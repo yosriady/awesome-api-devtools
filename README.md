@@ -282,6 +282,9 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Ion](https://github.com/ionwg/ion-doc)
 - [JSON-LD](https://json-ld.org/)
 
+## JSON Companion tools
+- [Dadroit JSON Viewer](https://dadroit.com) - Very fast JSON Viewer, supporting huge (multi gigabytes) files, JSON log (JSON-Lines and ndjson).
+
 ## Learning Resources
 - [REST in Practice](http://shop.oreilly.com/product/9780596805838.do)
 - [Roy Fielding's dissertation on REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
