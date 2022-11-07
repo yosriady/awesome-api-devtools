@@ -208,6 +208,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [MockBin](https://mockbin.com/): Generate mock HTTP endpoints.
 - [httpbin](http://httpbin.org): Templated responses for testing various scenarios for HTTP requests.
 - [Prism](https://github.com/stoplightio/prism): a set of packages for API mocking and contract testing with OpenAPI v2 (formerly known as Swagger) and OpenAPI v3.x, including mock servers and a validation proxy.
+- [MockingCloud](https://mockingcloud.com): Generate full mock REST APIs with just OpenAPI yaml/json spec files.
 
 ### Desktop 
 - [Postman](https://www.getpostman.com/docs/postman/mock_servers/setting_up_mock): Desktop API client and mocking tool.
