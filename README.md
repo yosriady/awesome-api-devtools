@@ -145,8 +145,11 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Fractal](https://github.com/thephpleague/fractal): Fractal provides a presentation and transformation layer for complex data output, the like found in RESTful APIs, and works really well with JSON
 - [Yii2 Framework](https://github.com/yiisoft/yii2): Provides a whole set of tools to simplify the task of implementing RESTful Web Service APIs
 
-### C# .Net 6
- - [ASP.NET Web APIs](https://dotnet.microsoft.com/en-us/apps/aspnet/apis): Build secure REST APIs on any platform with C#
+### R
+- [Plumber](https://www.rplumber.io/): API Framework to build APIs for simple R Functions
+
+### C#
+- [ASP.NET Web APIs](https://dotnet.microsoft.com/en-us/apps/aspnet/apis): Build secure REST APIs on any platform with C#
 
 ### Miscellaneous
 - [Dream Factory](https://github.com/dreamfactorysoftware/dreamfactory): Turn any database into an API platform.
