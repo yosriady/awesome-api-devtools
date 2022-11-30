@@ -206,6 +206,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [HTTPie](https://httpie.org/): Command line HTTP client.
 - [Paw](https://paw.cloud/): REST client for Mac.
 - [Insomnia](https://insomnia.rest/): REST API client for Mac, Windows, and Linux.
+- [httpy](https://github.com/knid/httpy): Programmable Command line HTTP client.
 
 ## API Debugging and Mocking
 
