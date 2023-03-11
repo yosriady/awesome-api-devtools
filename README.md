@@ -157,6 +157,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Client Development Tools
 
 ### General
+- [at-your-service](https://atyourservice.awalsh.io/): A developer tool for API observability on the browser. Generate OpenAPI specifications and code from network traffic.
 - [Swagger CodeGen](https://github.com/swagger-api/swagger-codegen): Generate client libraries automatically from a Swagger-compliant server.
 - [AutoRest](https://github.com/Azure/autorest): Generate client libraries for RESTful web services
 - [OpenAPI Generator](https://github.com/openapitools/openapi-generator): A community fork of Swagger Codegen to automatically generate API clients, server stubs and documentation for REST APIs given an OpenAPI/Swagger spec.
