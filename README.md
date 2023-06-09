@@ -215,6 +215,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Paw](https://paw.cloud/): REST client for Mac.
 - [Insomnia](https://insomnia.rest/): REST API client for Mac, Windows, and Linux.
 - [httpy](https://github.com/knid/httpy): Programmable Command line HTTP client.
+- [Thunder Client](https://www.thunderclient.com/): Lightweight Rest API Client for VS Code.
 
 ## API Debugging and Mocking
 
