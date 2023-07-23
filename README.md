@@ -274,7 +274,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Online OpenAPI/Swagger File Security Audit](https://apisecurity.io/tools/audit/): Free online static analysis of API contract files. Upload the file and get the report.
 - [API Security checklist](https://github.com/shieldfy/API-Security-Checklist): Checklist of the most important security countermeasures when designing, testing, and releasing your API.
 - [Ory Hydra](https://github.com/ory/hydra): OAuth2 server with OpenID Connect written in Go.
-
+- [crAPI](https://github.com/OWASP/crAPI) : completely ridiculous API (crAPI) will help you to understand the ten most critical API security risks.crAPI is vulnerable by design and intended as a tool to learn.
+  
 ## API Web Scanners
 - [Cherrybomb](https://github.com/blst-security/cherrybomb): Stop half-done API specifications! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
 
