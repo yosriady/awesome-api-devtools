@@ -143,6 +143,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ### PHP
 - [API Platform](https://github.com/api-platform/api-platform): API framework on top of Symfony with JSON-LD, Schema.org and Hydra support
 - [Dingo API](https://github.com/dingo/api): A RESTful API package for the Laravel and Lumen frameworks
+- [DotKernel API](https://github.com/dotkernel/api): A RESTful API application based on Mezzio microframework , using Laminas components, under active development
 - [Fractal](https://github.com/thephpleague/fractal): Fractal provides a presentation and transformation layer for complex data output, the like found in RESTful APIs, and works really well with JSON
 - [Yii2 Framework](https://github.com/yiisoft/yii2): Provides a whole set of tools to simplify the task of implementing RESTful Web Service APIs
 
