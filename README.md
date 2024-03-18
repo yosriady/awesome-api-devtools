@@ -320,6 +320,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [The Ten Essentials for Good API Documentation](https://alistapart.com/article/the-ten-essentials-for-good-api-documentation)
 - [APIsecurity.io weekly newsletter](https://apisecurity.io)
 - [Testing Web APIs](https://www.manning.com/books/testing-web-apis)
+- [The Design of Web APIs, Second Edition](https://www.manning.com/books/the-design-of-web-apis-second-edition)
 
 ## Blogs
 - [API Evangelist](http://apievangelist.com/blog/)
