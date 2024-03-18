@@ -282,6 +282,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Monitoring
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
 - [Ping-API](https://ping-api.com/): Automated API Testing.
+- [Streamdal](https://streamdal.com): A tool to embed privacy controls in your application code to detect PII as it enters and leaves your systems, preventing it from reaching unintended APIs, databases, data streams, or pipelines.
 
 ## API Testing
 - [Assertible](https://assertible.com): Continuously test and monitor your APIs after deployments and across environments.
