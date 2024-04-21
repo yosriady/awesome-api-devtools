@@ -45,6 +45,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Stoplight Studio](https://stoplight.io/studio/): Create, prototype, and share OpenAPI descriptions and JSON Schemas using a visual editor.
 - [Spectral](https://github.com/stoplightio/spectral): Define rulesets to lint YAML or JSON, including OpenAPI 2.x, 3.x and AsyncAPI
 - [Optic](https://www.useoptic.com/docs/openapi/generate-from-traffic): Verify the accuracy of your OpenAPI 3.x spec using real traffic, and automatically apply patches that keep it up-to-date
+- [fitting](https://github.com/tuwilof/fitting): Library add improve test log, validate its according to API Blueprint and Open API, show the documentation coverage with log.
 
 ## API Specifications
 - [API Commons](http://apicommons.org/): A repository of language-agnostic API specifications / Data Models.
