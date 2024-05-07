@@ -45,6 +45,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Stoplight Studio](https://stoplight.io/studio/): Create, prototype, and share OpenAPI descriptions and JSON Schemas using a visual editor.
 - [Spectral](https://github.com/stoplightio/spectral): Define rulesets to lint YAML or JSON, including OpenAPI 2.x, 3.x and AsyncAPI
 - [Optic](https://www.useoptic.com/docs/openapi/generate-from-traffic): Verify the accuracy of your OpenAPI 3.x spec using real traffic, and automatically apply patches that keep it up-to-date
+- [Apidog](https://apidog.com): Design,create, define API specification with a visual editor, JSON/YAML/Schema supported.
 
 ## API Specifications
 - [API Commons](http://apicommons.org/): A repository of language-agnostic API specifications / Data Models.
@@ -162,6 +163,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [AutoRest](https://github.com/Azure/autorest): Generate client libraries for RESTful web services
 - [OpenAPI Generator](https://github.com/openapitools/openapi-generator): A community fork of Swagger Codegen to automatically generate API clients, server stubs and documentation for REST APIs given an OpenAPI/Swagger spec.
 - [at-your-service](https://atyourservice.awalsh.io/): A developer tool for API observability on the browser. Generate OpenAPI specifications and code from network traffic.
+- [Apidog](https://apidog.com): Generate client code, client SDKs, and server stubs from API Specs for different programming languages.
 
 ### Ruby
 - [Net::HTTP](https://apidock.com/ruby/Net/HTTP): An HTTP client API for Ruby.
@@ -199,6 +201,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Docbox](https://github.com/tmcw/docbox): REST API documentation generator, using Markdown.
 - [widdershins](https://github.com/Mermade/widdershins): REST API documentation generator from OpenAPI 3.0 / Swagger 2.0 / AsyncAPI 1.x / Semoasa 0.1.0 definition
 - [Elements](https://github.com/stoplightio/elements): Web Components-based API documentation for OpenAPI 3.x/2.x
+- [Apidog](https://apidog.com): 1-click to generate beautiful API documantation from API specs, and easily share with others.
 
 ## API Clients
 
@@ -216,6 +219,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Paw](https://paw.cloud/): REST client for Mac.
 - [Insomnia](https://insomnia.rest/): REST API client for Mac, Windows, and Linux.
 - [httpy](https://github.com/knid/httpy): Programmable Command line HTTP client.
+- [Apidog](https://apidog.com): API management tool for REST, GraphQL, WebSocket, gRPC, etc. Available on Mac, Windows, and Linux.
 
 ## API Debugging and Mocking
 
@@ -231,6 +235,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Postman](https://www.getpostman.com/docs/postman/mock_servers/setting_up_mock): Desktop API client and mocking tool.
 - [Json-Server](https://github.com/typicode/json-server) Full fake REST API with zero coding.
 - [Mockoon](https://mockoon.com): Desktop API mocking tool.
+- [Apidog](https://apidog.com): Desktop API Client and mocking tool with built-in Mocking Server, any configuration needed.
 
 ## API Design Guides
 - [Google API Design Guide](https://cloud.google.com/apis/design/)
@@ -291,6 +296,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [OWASP Zaproxy](https://github.com/zaproxy/zaproxy): A tool to test your API for known security vulnerabilities, with a great CI integration.
 - [RestQA](https://github.com/restqa/restqa): Microservice API Testing tool focused on providing a great developer experience.
 - [Optic CI](https://www.useoptic.com/docs/diff-openapi): Test for breaking API changes in CI Pipelines
+- [Apidog](https://apidog.com): API functional & performance testing tool, CI/CD supported.
 
 ## API Developer Portal
 - [Tyk](https://tyk.io/features): API Developer Portal on top of API gateway, make your API gateway easier to be used by developers.
