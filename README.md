@@ -62,6 +62,9 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [jbuilder](https://github.com/rails/jbuilder): Create JSON structures via a Builder-style DSL.
 - [roar](https://github.com/trailblazer/roar): Parse and render REST API documents using representers.
 
+### Rust
+- [rocket](https://github.com/rwf2/Rocket/tree/v0.5.1): Rocket is an async web framework for Rust with a focus on usability, security, extensibility, and speed.
+
 ### Python
 - [Django REST framework](http://www.django-rest-framework.org/): Toolkit that makes it easy to build Web APIs.
 - [Tastypie](https://github.com/django-tastypie/django-tastypie): Webservice API framework for Django.
