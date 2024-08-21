@@ -46,6 +46,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Spectral](https://github.com/stoplightio/spectral): Define rulesets to lint YAML or JSON, including OpenAPI 2.x, 3.x and AsyncAPI
 - [Optic](https://www.useoptic.com/docs/openapi/generate-from-traffic): Verify the accuracy of your OpenAPI 3.x spec using real traffic, and automatically apply patches that keep it up-to-date
 - [RateMyOpenAPI](https://ratemyopenapi.com/): Open-source tools that scans your OpenAPI spec and identifies issues with documentation, security, and SDK generation - and generates a report with fix suggestions.
+- [OpenAPI DevTools](https://github.com/AndrewWalsh/openapi-devtools): Browser extension that generates API specs for any app or website
 
 ## API Specifications
 - [API Commons](http://apicommons.org/): A repository of language-agnostic API specifications / Data Models.
@@ -162,7 +163,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Swagger CodeGen](https://github.com/swagger-api/swagger-codegen): Generate client libraries automatically from a Swagger-compliant server.
 - [AutoRest](https://github.com/Azure/autorest): Generate client libraries for RESTful web services
 - [OpenAPI Generator](https://github.com/openapitools/openapi-generator): A community fork of Swagger Codegen to automatically generate API clients, server stubs and documentation for REST APIs given an OpenAPI/Swagger spec.
-- [at-your-service](https://atyourservice.awalsh.io/): A developer tool for API observability on the browser. Generate OpenAPI specifications and code from network traffic.
 
 ### Ruby
 - [Net::HTTP](https://apidock.com/ruby/Net/HTTP): An HTTP client API for Ruby.
@@ -206,6 +206,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ### Open Source
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch): API client for REST, GraphQL, Websocket, SSE, Socket.IO and MQTT
 - [Hurl](https://github.com/Orange-OpenSource/hurl): Hurl makes it easy to work with HTML content, REST / SOAP / GraphQL APIs, or any other XML / JSON based APIs.
+- [ATAC](https://github.com/Julien-cpsn/ATAC): A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 
 ### Hosted
 - [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
@@ -256,6 +257,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Ambassador API Gateway](https://www.getambassador.io/): Ambassador is a specialized control plane that translates Kubernetes annotations to Envoy configuration. All traffic is directly handled by the high-performance Envoy Proxy.
 - [APIGrove](https://apigrove.github.io/apigrove/): API manager built in Java on top of Fuse ESB.
 - [Apigee127](https://github.com/apigee-127/a127-documentation/wiki/What-is-Apigee-127): nodejs based API Gateway
+- [APISIX](https://apisix.apache.org/): Open Source and Cloud-Native API gateway, based on the Nginx library and etcd.
 - [Pushpin](http://pushpin.org): Proxy for both request/response or streaming (long poll) of responses
 - [Strongloop](https://github.com/strongloop/microgateway): nodejs based API Gateway
 - [Fusio](http://www.fusio-project.org/): PHP based open source API management platform
