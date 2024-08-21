@@ -236,7 +236,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## API Design Guides
 - [Google API Design Guide](https://cloud.google.com/apis/design/)
-- [PayPal API Style Guide](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
 - [Heroku Platform HTTP API Design Guide](https://github.com/interagent/http-api-design)
 - [Haufe API Style Guide](http://work.haufegroup.io/api-style-guide/)
 - [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
