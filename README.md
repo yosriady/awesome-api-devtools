@@ -45,6 +45,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Stoplight Studio](https://stoplight.io/studio/): Create, prototype, and share OpenAPI descriptions and JSON Schemas using a visual editor.
 - [Spectral](https://github.com/stoplightio/spectral): Define rulesets to lint YAML or JSON, including OpenAPI 2.x, 3.x and AsyncAPI
 - [Optic](https://www.useoptic.com/docs/openapi/generate-from-traffic): Verify the accuracy of your OpenAPI 3.x spec using real traffic, and automatically apply patches that keep it up-to-date
+- [RateMyOpenAPI](https://ratemyopenapi.com/): Open-source tools that scans your OpenAPI spec and identifies issues with documentation, security, and SDK generation - and generates a report with fix suggestions.
 - [OpenAPI DevTools](https://github.com/AndrewWalsh/openapi-devtools): Browser extension that generates API specs for any app or website
 
 ## API Specifications
@@ -271,7 +272,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Janus](https://github.com/hellofresh/janus): A lightweight API Gateway written in Go by [Hello Fresh](https://engineering.hellofresh.com).
 - [fabio](https://github.com/fabiolb/fabio): A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by [consul](https://www.consul.io) by eBay.
 - [Traefik](https://github.com/containous/traefik): Træfik (pronounced like traffic) is a modern HTTP reverse proxy and load balancer written in Go.
-- [Oathkeeper](https://github.com/ory/oathkeeper): OIdentity & Access Proxy (IAP) that authorizes HTTP requests based on sets of rules. Integrates with ORY Hydra. 
+- [Oathkeeper](https://github.com/ory/oathkeeper): OIdentity & Access Proxy (IAP) that authorizes HTTP requests based on sets of rules. Integrates with ORY Hydra.
+- [Zuplo](https://zuplo.com/): OpenAPI-Powered API Management platform for API Development, Deployment, and Documentation. Add auth, rate-limiting, and monetization to your API in minutes.
 
 ## API Security
 - [Online OpenAPI/Swagger File Security Audit](https://apisecurity.io/tools/audit/): Free online static analysis of API contract files. Upload the file and get the report.
@@ -297,8 +299,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Developer Portal
 - [Tyk](https://tyk.io/features): API Developer Portal on top of API gateway, make your API gateway easier to be used by developers.
 - [APIMATIC](https://apimatic.io/developer-experience-portal): Instantly build an API Portal with SDKs, Live Code Samples, Test Cases, API Transformation and language specific Docs & Reference - tailored for your API.
-- [Optic Docs](https://www.useoptic.com): Share verified-accurate OpenAPI documentation with your consumers. With Optic they can subscribe to your API and get notified when it changes. 
-
+- [Optic Docs](https://www.useoptic.com): Share verified-accurate OpenAPI documentation with your consumers. With Optic they can subscribe to your API and get notified when it changes.
+- [Zuplo](https://zuplo.com/): OpenAPI-Powered API Management platform for API Development, Deployment, and Documentation. Zuplo's Developer Portal integrates key-management, usage analytics, and monetization for free.
 
 ## JSON Format Standards
 - [HAL](http://stateless.co/hal_specification.html)
