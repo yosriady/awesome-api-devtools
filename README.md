@@ -89,6 +89,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Feathers](https://feathersjs.com/): Build RESTful and real-time APIs through Socket.io or Primus.
 - [Deployd](https://github.com/deployd/deployd): Deployd is the simplest way to build realtime APIs for web and mobile apps
 - [Nest](https://github.com/kamilmysliwiec/nest): A modern node.js framework for efficient and scalable web applications built on top of TypeScript
+- [API Hat](https://apihat.com/): API Management Platform.
 
 ### Go
 - [Go-Json-Rest](https://github.com/ant0ine/go-json-rest): Thin layer on top of `net/http` that helps building RESTful APIs easily
