@@ -207,6 +207,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch): API client for REST, GraphQL, Websocket, SSE, Socket.IO and MQTT
 - [Hurl](https://github.com/Orange-OpenSource/hurl): Hurl makes it easy to work with HTML content, REST / SOAP / GraphQL APIs, or any other XML / JSON based APIs.
 - [ATAC](https://github.com/Julien-cpsn/ATAC): A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
+- [Requestly](https://github.com/requestly/requestly/): Open Source API Client with a unique combination of HTTP-Proxy and mocking capabilities. Available as browser extension as well as a desktop app.
 
 ### Hosted
 - [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
@@ -218,6 +219,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Paw](https://paw.cloud/): REST client for Mac.
 - [Insomnia](https://insomnia.rest/): REST API client for Mac, Windows, and Linux.
 - [httpy](https://github.com/knid/httpy): Programmable Command line HTTP client.
+- [Requestly](https://github.com/requestly/requestly/): Open Source API Client with a unique combination of HTTP-Proxy and mocking capabilities. Also available as a desktop app.
 
 ## API Debugging and Mocking
 
@@ -228,11 +230,13 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Prism](https://github.com/stoplightio/prism): a set of packages for API mocking and contract testing with OpenAPI v2 (formerly known as Swagger) and OpenAPI v3.x, including mock servers and a validation proxy.
 - [MockingCloud](https://mockingcloud.com): Generate full mock REST APIs with just OpenAPI yaml/json spec files.
 - [Svix Play](https://www.svix.com/play/): Easily inspect, test, and debug incoming webhooks.
+- [Requestly](https://requestly.com/): A HTTP-Proxy and mocking tool available as browser extension.
 
 ### Desktop 
 - [Postman](https://www.getpostman.com/docs/postman/mock_servers/setting_up_mock): Desktop API client and mocking tool.
 - [Json-Server](https://github.com/typicode/json-server) Full fake REST API with zero coding.
 - [Mockoon](https://mockoon.com): Desktop API mocking tool.
+- [Requestly](https://requestly.com/): A HTTP-Proxy and mocking tool for desktop.
 
 ## API Design Guides
 - [Google API Design Guide](https://cloud.google.com/apis/design/)
