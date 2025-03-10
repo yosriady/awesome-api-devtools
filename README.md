@@ -223,7 +223,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Hosted
 - [Beeceptor](https://beeceptor.com): An HTTP-proxy for rest APIs - inspect and build mock APIs.
-- [MockBin](https://mockbin.com/): Generate mock HTTP endpoints.
+- [JSONing](https://jsoning.com/api/): Generate mock API from a JSON object.
 - [httpbin](http://httpbin.org): Templated responses for testing various scenarios for HTTP requests.
 - [Prism](https://github.com/stoplightio/prism): a set of packages for API mocking and contract testing with OpenAPI v2 (formerly known as Swagger) and OpenAPI v3.x, including mock servers and a validation proxy.
 - [MockingCloud](https://mockingcloud.com): Generate full mock REST APIs with just OpenAPI yaml/json spec files.
