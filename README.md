@@ -222,6 +222,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Debugging and Mocking
 
 ### Hosted
+- [Mockbird](https://mockbird.cc): API Development Toolkit - Mock REST APIs, Inspect Webhooks and Call APIs
 - [Beeceptor](https://beeceptor.com): An HTTP-proxy for rest APIs - inspect and build mock APIs.
 - [MockBin](https://mockbin.com/): Generate mock HTTP endpoints.
 - [httpbin](http://httpbin.org): Templated responses for testing various scenarios for HTTP requests.
