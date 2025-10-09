@@ -135,6 +135,9 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Gen Microservice](https://github.com/videlalvaro/gen_microservice): This library solves the problem of implementing microservices with Erlang.
 - [Mochiweb](https://github.com/mochi/mochiweb): Erlang library for building lightweight HTTP servers.
 
+### Rust
+- [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy): High-performance OpenAI-compatible API server for AI inference with GGUF + SafeTensors support and hot model swapping.
+
 ### Postgres
 - [PostgREST](https://github.com/begriffs/postgrest): Serve a RESTful API from any existing PostgreSQL database.
 - [pREST](https://github.com/prest/prest): pREST is a way to serve a RESTful API from any databases written in Go.
