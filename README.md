@@ -3,7 +3,7 @@
 
   <h3>Special thanks to our sponsors:</h3>
   
-  <a href="https://app.requestly.io/api-client/?utm_source=github&utm_medium=partnered&utm_campaign=yosriady">
+  <a href="https://requestly.com/api-client/?utm_source=github&utm_medium=partnered&utm_campaign=yosriady">
      <div>
      <img alt="Requestly sponsorship" width="500" src="https://github.com/user-attachments/assets/24670320-997d-4d62-9bca-955c59fe883d">
      </div>
