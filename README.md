@@ -216,6 +216,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Hosted
 - [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
+- [JSON Generator.app](https://jsongenerator.app): Generate Fake JSON Data for Testing & Development.
 
 ### Desktop
 - [Postman](https://www.getpostman.com): Desktop API testing tool.
