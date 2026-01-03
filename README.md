@@ -354,3 +354,5 @@ Authored and maintained by Yos Riady with help from contributors ([list][contrib
 
 [MIT]: https://mit-license.org/
 [contributors]: https://github.com/yosriady/api-development-tools/contributors
+
+* [Vedika API](https://vedika.io) - Vedic astrology REST API with AI chatbot
