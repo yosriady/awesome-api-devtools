@@ -354,3 +354,5 @@ Authored and maintained by Yos Riady with help from contributors ([list][contrib
 
 [MIT]: https://mit-license.org/
 [contributors]: https://github.com/yosriady/api-development-tools/contributors
+
+- [AgentsKB](https://agentskb.com) - Expert knowledge layer for AI assistants. Your AI searches, we research. That's the difference.
