@@ -58,6 +58,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [API Commons](http://apicommons.org/): A repository of language-agnostic API specifications / Data Models.
 - [APIS.guru](https://apis.guru/openapi-directory/): Directory of API specs in OpenAPI(aka Swagger) 2.0 format.
 - [AnyAPI](https://any-api.com/): Documentation and Test Consoles for Public APIs.
+- [BMO Developer APIs](https://bmobot.ai/apis): Collection of 31 free, no-auth REST APIs for common developer tasks with OpenAPI specs, Swagger UI, and interactive playgrounds.
 
 ## API Frameworks
 
