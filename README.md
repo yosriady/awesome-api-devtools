@@ -238,6 +238,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ### Desktop 
 - [Postman](https://www.getpostman.com/docs/postman/mock_servers/setting_up_mock): Desktop API client and mocking tool.
 - [Json-Server](https://github.com/typicode/json-server) Full fake REST API with zero coding.
+- [mockd](https://github.com/getmockd/mockd): CLI-first multi-protocol mock server handling HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP. Imports from OpenAPI, Postman, WireMock, HAR, and cURL.
 - [Mockoon](https://mockoon.com): Desktop API mocking tool.
 
 ## API Design Guides
