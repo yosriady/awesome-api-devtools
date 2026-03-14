@@ -299,6 +299,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Pyresttest](https://github.com/svanoort/pyresttest): YAML based REST testing and API microbenchmarking tool
 - [OWASP Zaproxy](https://github.com/zaproxy/zaproxy): A tool to test your API for known security vulnerabilities, with a great CI integration.
 - [RestQA](https://github.com/restqa/restqa): Microservice API Testing tool focused on providing a great developer experience.
+- [SnapForge](https://github.com/vesper-astrena/snapforge): Self-hosted screenshot & PDF API. Single Python file, powered by Playwright. Supports device emulation, element screenshots, dark mode, HTML-to-image, concurrent browser pool, and API key auth.
 - [Optic CI](https://www.useoptic.com/docs/diff-openapi): Test for breaking API changes in CI Pipelines
 
 ## API Developer Portal
