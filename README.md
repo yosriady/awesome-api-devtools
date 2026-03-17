@@ -257,6 +257,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Publishing
 - [Mashape](https://www.mashape.com/): API Marketplace.
 
+- [Arch Tools](https://archtools.dev): The first x402 API hub — 58+ AI tools for search, scraping, analysis, and generation with native Coinbase x402 crypto payments on 15+ chains. MCP compatible.
+
 ## API Gateways
 - [AWS API Gateway](https://aws.amazon.com/api-gateway/): Traffic management, authorization and access control, monitoring, and API version management.
 - [Ambassador API Gateway](https://www.getambassador.io/): Ambassador is a specialized control plane that translates Kubernetes annotations to Envoy configuration. All traffic is directly handled by the high-performance Envoy Proxy.
