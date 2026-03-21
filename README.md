@@ -169,6 +169,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Swagger CodeGen](https://github.com/swagger-api/swagger-codegen): Generate client libraries automatically from a Swagger-compliant server.
 - [AutoRest](https://github.com/Azure/autorest): Generate client libraries for RESTful web services
 - [OpenAPI Generator](https://github.com/openapitools/openapi-generator): A community fork of Swagger Codegen to automatically generate API clients, server stubs and documentation for REST APIs given an OpenAPI/Swagger spec.
+- [spec2cli](https://github.com/lucianfialho/spec2cli): Turn any OpenAPI/Swagger spec into a CLI at runtime — no code generation, no build step.
 
 ### Ruby
 - [Net::HTTP](https://apidock.com/ruby/Net/HTTP): An HTTP client API for Ruby.
