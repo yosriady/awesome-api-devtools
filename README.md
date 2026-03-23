@@ -210,6 +210,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Clients
 
 ### Open Source
+- [apicmd](https://github.com/charlie103721/apicmd): Turn any API into a CLI with named commands, parameter validation, and --help. Reads OpenAPI specs to generate operations automatically. Designed for LLM agents and human use alike.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch): API client for REST, GraphQL, Websocket, SSE, Socket.IO and MQTT
 - [Hurl](https://github.com/Orange-OpenSource/hurl): Hurl makes it easy to work with HTML content, REST / SOAP / GraphQL APIs, or any other XML / JSON based APIs.
 - [ATAC](https://github.com/Julien-cpsn/ATAC): A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
