@@ -256,6 +256,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## API Publishing
 - [Mashape](https://www.mashape.com/): API Marketplace.
+- [API Snap](https://api-snap.com): Free utility API platform — QR codes, screenshots, PDFs, image resize, hashing, and 8+ more tools under one API key. Free tier: 100 calls/month, paid from $9/month.
 
 ## API Gateways
 - [AWS API Gateway](https://aws.amazon.com/api-gateway/): Traffic management, authorization and access control, monitoring, and API version management.
