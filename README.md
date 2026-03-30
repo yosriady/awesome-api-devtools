@@ -354,3 +354,7 @@ Authored and maintained by Yos Riady with help from contributors ([list][contrib
 
 [MIT]: https://mit-license.org/
 [contributors]: https://github.com/yosriady/api-development-tools/contributors
+
+
+### DevKits
+[DevKits](https://devkits.aiforeverthing.com) - 82+ free developer tools including JSON Formatter, JWT Decoder, Base64 Encoder/Decoder, Regex Tester, UUID Generator, and more. No signup required, works offline.
