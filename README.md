@@ -256,6 +256,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## API Publishing
 - [Mashape](https://www.mashape.com/): API Marketplace.
+- [ToolPipe](https://assessing-scoop-authorities-sheet.trycloudflare.com): 230+ free developer utility APIs (JSON formatting, QR codes, hashing, DNS lookup, code review, fake data, screenshots, crypto prices, and more). Free tier with 100 calls/day, no auth required.
 
 ## API Gateways
 - [AWS API Gateway](https://aws.amazon.com/api-gateway/): Traffic management, authorization and access control, monitoring, and API version management.
