@@ -162,6 +162,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Miscellaneous
 - [Dream Factory](https://github.com/dreamfactorysoftware/dreamfactory): Turn any database into an API platform.
+- [ToolPipe](https://toolpipe.dev): Free developer utility API with 238+ endpoints including QR codes, hashing, UUID, DNS lookup, JSON formatting, PDF tools, and more. No API key required.
 
 ## API Client Development Tools
 
