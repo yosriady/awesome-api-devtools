@@ -162,6 +162,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Miscellaneous
 - [Dream Factory](https://github.com/dreamfactorysoftware/dreamfactory): Turn any database into an API platform.
+- [ToolPipe](https://github.com/COSAI-Labs/toolpipe-mcp-server): 120+ developer utility APIs (QR codes, JSON processing, hashing, DNS lookup, SSL checking, code review, fake data, and more). Also available as an MCP server for AI agents.
 
 ## API Client Development Tools
 
