@@ -53,6 +53,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Optic](https://www.useoptic.com/docs/openapi/generate-from-traffic): Verify the accuracy of your OpenAPI 3.x spec using real traffic, and automatically apply patches that keep it up-to-date
 - [RateMyOpenAPI](https://ratemyopenapi.com/): Open-source tools that scans your OpenAPI spec and identifies issues with documentation, security, and SDK generation - and generates a report with fix suggestions.
 - [OpenAPI DevTools](https://github.com/AndrewWalsh/openapi-devtools): Browser extension that generates API specs for any app or website
+- [Agentify](https://github.com/koriyoshi2041/agentify): CLI tool that transforms OpenAPI specs into 9 agent interface formats including MCP servers, AGENTS.md, CLAUDE.md, Skills, and A2A Cards.
 
 ## API Specifications
 - [API Commons](http://apicommons.org/): A repository of language-agnostic API specifications / Data Models.
