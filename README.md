@@ -58,6 +58,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [API Commons](http://apicommons.org/): A repository of language-agnostic API specifications / Data Models.
 - [APIS.guru](https://apis.guru/openapi-directory/): Directory of API specs in OpenAPI(aka Swagger) 2.0 format.
 - [AnyAPI](https://any-api.com/): Documentation and Test Consoles for Public APIs.
+- [ToolPipe](https://toolpipe.dev): 120+ developer utility APIs (QR codes, JSON formatting, hashing, DNS, text analysis, PDF tools). Free tier, no API key required. Also available as an [MCP server](https://www.npmjs.com/package/@cosai-labs/toolpipe-mcp-server).
+
 
 ## API Frameworks
 
@@ -162,7 +164,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Miscellaneous
 - [Dream Factory](https://github.com/dreamfactorysoftware/dreamfactory): Turn any database into an API platform.
-- [ToolPipe](https://toolpipe.dev): Free developer utility API with 238+ endpoints including QR codes, hashing, UUID, DNS lookup, JSON formatting, PDF tools, and more. No API key required.
 
 ## API Client Development Tools
 
