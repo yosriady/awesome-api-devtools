@@ -6,6 +6,7 @@
 
 # HTTP API Development Tools
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for API development automation, multi-service orchestration, and automated testing coordination. MIT licensed.
 ## Introduction
 This is a collection of useful resources for building RESTful HTTP+JSON APIs. There are a lot of good tools and entire ecosystems out there! It can be overwhelming not knowing what options are available, so you can use this as a reference starting point.
 
