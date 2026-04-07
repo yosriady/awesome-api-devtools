@@ -333,6 +333,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [APIsecurity.io weekly newsletter](https://apisecurity.io)
 - [Testing Web APIs](https://www.manning.com/books/testing-web-apis)
 - [The Design of Web APIs, Second Edition](https://www.manning.com/books/the-design-of-web-apis-second-edition)
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 
 ## Blogs
 - [API Evangelist](http://apievangelist.com/blog/)
