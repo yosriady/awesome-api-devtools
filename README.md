@@ -264,6 +264,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Apigee127](https://github.com/apigee-127/a127-documentation/wiki/What-is-Apigee-127): nodejs based API Gateway
 - [APISIX](https://apisix.apache.org/): Open Source and Cloud-Native API gateway, based on the Nginx library and etcd.
 - [Pushpin](http://pushpin.org): Proxy for both request/response or streaming (long poll) of responses
+- [SBproxy](https://github.com/soapbucket/sbproxy): Single-binary AI gateway and reverse proxy with 103+ LLM providers, cost-based routing, rate limiting, and YAML configuration.
 - [Strongloop](https://github.com/strongloop/microgateway): nodejs based API Gateway
 - [Fusio](http://www.fusio-project.org/): PHP based open source API management platform
 - [Camel](https://camel.apache.org/): Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
