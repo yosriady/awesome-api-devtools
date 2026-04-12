@@ -346,6 +346,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 Please write a brief one-sentence summary when adding a new resource.
 
 ## Thanks
+scrape
 **api-development-tools** © 2016+, Yos Riady. Released under the [MIT] License.<br>
 Authored and maintained by Yos Riady with help from contributors ([list][contributors]).
 
