@@ -55,9 +55,11 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [OpenAPI DevTools](https://github.com/AndrewWalsh/openapi-devtools): Browser extension that generates API specs for any app or website
 
 ## API Specifications
+- [AI Dev Jobs](https://aidevboard.com): Free REST API for AI/ML job listings with OpenAPI spec, no auth required.
 - [API Commons](http://apicommons.org/): A repository of language-agnostic API specifications / Data Models.
 - [APIS.guru](https://apis.guru/openapi-directory/): Directory of API specs in OpenAPI(aka Swagger) 2.0 format.
 - [AnyAPI](https://any-api.com/): Documentation and Test Consoles for Public APIs.
+- [Not Human Search](https://nothumansearch.ai): Free REST API and MCP server for discovering AI-ready websites, with OpenAPI spec.
 
 ## API Frameworks
 
