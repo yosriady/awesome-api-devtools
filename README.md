@@ -24,6 +24,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 *  [API Publishing](#api-publishing)
 *  [API Gateways](#api-gateways)
 *  [API Security](#api-security)
+*  [Webhooks](#webhooks)
 *  [API Monitoring](#api-monitoring)
 *  [API Testing](#api-testing)
 *  [API Developer Portal](#api-developer-portal)
@@ -287,6 +288,9 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## API Web Scanners
 - [Cherrybomb](https://github.com/blst-security/cherrybomb): Stop half-done API specifications! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
+
+## Webhooks
+- [Hook0](https://www.hook0.com/): Open-source webhooks-as-a-service platform built in Rust, providing event types, subscriptions, low-latency delivery, HMAC signatures, retries, and monitoring as an API. [Source Code](https://github.com/hook0/hook0)
 
 ## API Monitoring
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
