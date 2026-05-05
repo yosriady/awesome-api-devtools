@@ -283,6 +283,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Security
 - [Online OpenAPI/Swagger File Security Audit](https://apisecurity.io/tools/audit/): Free online static analysis of API contract files. Upload the file and get the report.
 - [API Security checklist](https://github.com/shieldfy/API-Security-Checklist): Checklist of the most important security countermeasures when designing, testing, and releasing your API.
+- [IPASIS](https://ipasis.com/docs): Real-time bot detection and fraud prevention API. Combines IP reputation, proxy/VPN detection, and email validation in a single call. Free tier available.
 - [Ory Hydra](https://github.com/ory/hydra): OAuth2 server with OpenID Connect written in Go.
 
 ## API Web Scanners
