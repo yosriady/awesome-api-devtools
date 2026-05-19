@@ -5,6 +5,7 @@
 
 
 # HTTP API Development Tools
+* [Fixzi](https://fixzi.ai) - Validate, format, fix, compare, and convert JSON/XML, with schema tools and API contract monitoring.
 
 ## Introduction
 This is a collection of useful resources for building RESTful HTTP+JSON APIs. There are a lot of good tools and entire ecosystems out there! It can be overwhelming not knowing what options are available, so you can use this as a reference starting point.
