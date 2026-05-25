@@ -234,11 +234,13 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Prism](https://github.com/stoplightio/prism): a set of packages for API mocking and contract testing with OpenAPI v2 (formerly known as Swagger) and OpenAPI v3.x, including mock servers and a validation proxy.
 - [MockingCloud](https://mockingcloud.com): Generate full mock REST APIs with just OpenAPI yaml/json spec files.
 - [Svix Play](https://www.svix.com/play/): Easily inspect, test, and debug incoming webhooks.
+- [Mockzilla Cloud](https://mockzilla.org): Hosted API simulation built on Mockzilla, with per-PR mock URLs, team-shared endpoints, and zero-config GitHub Actions integration.
 
 ### Desktop 
 - [Postman](https://www.getpostman.com/docs/postman/mock_servers/setting_up_mock): Desktop API client and mocking tool.
 - [Json-Server](https://github.com/typicode/json-server) Full fake REST API with zero coding.
 - [Mockoon](https://mockoon.com): Desktop API mocking tool.
+- [Mockzilla](https://github.com/mockzilla/mockzilla): Open-source self-hosted mock server that spins up a fully validated API mock from any OpenAPI spec in seconds, supporting upstream proxy, latency simulation, request validation, and CI/CD integration.
 
 ## API Design Guides
 - [Google API Design Guide](https://cloud.google.com/apis/design/)
