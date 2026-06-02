@@ -224,6 +224,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Paw](https://paw.cloud/): REST client for Mac.
 - [Insomnia](https://insomnia.rest/): REST API client for Mac, Windows, and Linux.
 - [httpy](https://github.com/knid/httpy): Programmable Command line HTTP client.
+- [OlympAPI](https://github.com/OlympProject/olympapi-release): Modern API Client for Windows and Linux
 
 ## API Debugging and Mocking
 
