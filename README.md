@@ -6,6 +6,7 @@
 
 # HTTP API Development Tools
 
+
 ## Introduction
 This is a collection of useful resources for building RESTful HTTP+JSON APIs. There are a lot of good tools and entire ecosystems out there! It can be overwhelming not knowing what options are available, so you can use this as a reference starting point.
 
@@ -300,6 +301,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [OWASP Zaproxy](https://github.com/zaproxy/zaproxy): A tool to test your API for known security vulnerabilities, with a great CI integration.
 - [RestQA](https://github.com/restqa/restqa): Microservice API Testing tool focused on providing a great developer experience.
 - [Optic CI](https://www.useoptic.com/docs/diff-openapi): Test for breaking API changes in CI Pipelines
+- [Fixzi](https://fixzi.ai) - Validate, format, fix, compare, and convert JSON/XML, with schema tools and API contract monitoring.
 
 ## API Developer Portal
 - [Tyk](https://tyk.io/features): API Developer Portal on top of API gateway, make your API gateway easier to be used by developers.
