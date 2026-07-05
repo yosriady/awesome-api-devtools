@@ -299,6 +299,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Pyresttest](https://github.com/svanoort/pyresttest): YAML based REST testing and API microbenchmarking tool
 - [OWASP Zaproxy](https://github.com/zaproxy/zaproxy): A tool to test your API for known security vulnerabilities, with a great CI integration.
 - [RestQA](https://github.com/restqa/restqa): Microservice API Testing tool focused on providing a great developer experience.
+- [Specmatic](https://specmatic.io/): An open source contract testing tool that allows developers to turn API specifications (such as OpenAPI or AsyncAPI) into executable specifications.
 - [Optic CI](https://www.useoptic.com/docs/diff-openapi): Test for breaking API changes in CI Pipelines
 
 ## API Developer Portal
