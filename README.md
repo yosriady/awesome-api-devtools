@@ -256,6 +256,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## API Publishing
 - [Mashape](https://www.mashape.com/): API Marketplace.
+- [AgentServices](https://github.com/vbkotecha/agentservices-api): x402-paid crypto/market data API marketplace with MCP server. 54 services, 97 endpoints, on-chain USDC micropayments.
 
 ## API Gateways
 - [AWS API Gateway](https://aws.amazon.com/api-gateway/): Traffic management, authorization and access control, monitoring, and API version management.
