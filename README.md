@@ -289,6 +289,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Cherrybomb](https://github.com/blst-security/cherrybomb): Stop half-done API specifications! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
 
 ## API Monitoring
+- [API Status Check](https://apistatuscheck.com): Operational status for 285 third-party APIs across 29 categories (AWS, GitHub, Stripe, OpenAI, Vercel, Cloudflare, and more) in one dashboard, with a public JSON endpoint at /api/status.
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
 - [Ping-API](https://ping-api.com/): Automated API Testing.
 - [Streamdal](https://streamdal.com): A tool to embed privacy controls in your application code to detect PII as it enters and leaves your systems, preventing it from reaching unintended APIs, databases, data streams, or pipelines.
