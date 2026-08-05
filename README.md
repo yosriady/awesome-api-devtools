@@ -281,6 +281,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Zuplo](https://zuplo.com/): OpenAPI-Powered API Management platform for API Development, Deployment, and Documentation. Add auth, rate-limiting, and monetization to your API in minutes.
 
 ## API Security
+- [QAPractices API Security Testing Guide](https://qapractices.com/documentation/api-security-testing/): Practical guide to testing APIs for authentication, authorization and common vulnerabilities.
 - [Online OpenAPI/Swagger File Security Audit](https://apisecurity.io/tools/audit/): Free online static analysis of API contract files. Upload the file and get the report.
 - [API Security checklist](https://github.com/shieldfy/API-Security-Checklist): Checklist of the most important security countermeasures when designing, testing, and releasing your API.
 - [Ory Hydra](https://github.com/ory/hydra): OAuth2 server with OpenID Connect written in Go.
@@ -294,6 +295,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Streamdal](https://streamdal.com): A tool to embed privacy controls in your application code to detect PII as it enters and leaves your systems, preventing it from reaching unintended APIs, databases, data streams, or pipelines.
 
 ## API Testing
+- [QAPractices API Testing Guide](https://qapractices.com/documentation/api-testing-guide/): Practical guide to testing REST, GraphQL and SOAP APIs with real-world examples and checklists.
 - [Assertible](https://assertible.com): Continuously test and monitor your APIs after deployments and across environments.
 - [Hurl](https://github.com/Orange-OpenSource/hurl): Hurl makes it easy to test HTML content, REST / SOAP / GraphQL APIs, or any other XML / JSON based APIs.
 - [Pyresttest](https://github.com/svanoort/pyresttest): YAML based REST testing and API microbenchmarking tool
