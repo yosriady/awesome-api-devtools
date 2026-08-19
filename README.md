@@ -105,6 +105,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [go-rest](https://github.com/ungerik/go-rest): Small and evil REST framework for Go.
 - [go-restful](https://github.com/emicklei/go-restful): A declarative highly readable framework for building restful API's.
 - [Goat](https://github.com/bahlo/goat): Minimalistic REST API server in Go.
+- [Govard](https://github.com/ddtcorex/govard) - Go-based local development orchestrator for API development with framework auto-configuration, one-click public tunnels, and database observability.
 - [Resoursea](https://github.com/resoursea/api): REST framework for quickly writing resource based services.
 - [Zerver](https://github.com/cosiner/zerver): Zerver is a expressive, modular, feature completed RESTful framework.
 - [Fiber](https://github.com/gofiber/fiber): :zap:Fiber is an Express inspired web framework written in Go with :coffee: .
