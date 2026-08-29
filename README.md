@@ -216,6 +216,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Hosted
 - [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
+- [Nutilz](https://nutilz.com): Free browser-based developer utilities including JSON formatter, schema generator, curl converter, and regex tools.
 
 ### Desktop
 - [Postman](https://www.getpostman.com): Desktop API testing tool.
