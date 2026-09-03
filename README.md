@@ -300,6 +300,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [OWASP Zaproxy](https://github.com/zaproxy/zaproxy): A tool to test your API for known security vulnerabilities, with a great CI integration.
 - [RestQA](https://github.com/restqa/restqa): Microservice API Testing tool focused on providing a great developer experience.
 - [Optic CI](https://www.useoptic.com/docs/diff-openapi): Test for breaking API changes in CI Pipelines
+- [APIPulse](https://api.wtoolskit.com): Free web-based API testing and debugging tool with CORS proxy, request history, and assertion testing. No signup required.
 
 ## API Developer Portal
 - [Tyk](https://tyk.io/features): API Developer Portal on top of API gateway, make your API gateway easier to be used by developers.
