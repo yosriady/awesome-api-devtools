@@ -339,6 +339,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## References
 - [HTTP Status Codes Reference](https://httpstatuses.com/)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Contributing
 [Pull Requests](https://github.com/yosriady/api-development-tools/pulls) are most welcome!
