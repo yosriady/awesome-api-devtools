@@ -296,6 +296,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Testing
 - [Assertible](https://assertible.com): Continuously test and monitor your APIs after deployments and across environments.
 - [Hurl](https://github.com/Orange-OpenSource/hurl): Hurl makes it easy to test HTML content, REST / SOAP / GraphQL APIs, or any other XML / JSON based APIs.
+- [Keploy](https://keploy.io): Open-source API testing platform that auto-generates test cases and data mocks from real traffic, with no code required.
 - [Pyresttest](https://github.com/svanoort/pyresttest): YAML based REST testing and API microbenchmarking tool
 - [OWASP Zaproxy](https://github.com/zaproxy/zaproxy): A tool to test your API for known security vulnerabilities, with a great CI integration.
 - [RestQA](https://github.com/restqa/restqa): Microservice API Testing tool focused on providing a great developer experience.
