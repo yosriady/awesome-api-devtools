@@ -206,6 +206,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Docbox](https://github.com/tmcw/docbox): REST API documentation generator, using Markdown.
 - [widdershins](https://github.com/Mermade/widdershins): REST API documentation generator from OpenAPI 3.0 / Swagger 2.0 / AsyncAPI 1.x / Semoasa 0.1.0 definition
 - [Elements](https://github.com/stoplightio/elements): Web Components-based API documentation for OpenAPI 3.x/2.x
+- [Cortex](https://github.com/cortex-docs/cortex): Generate interactive or static API documentation, typed SDKs, and MCP servers from OpenAPI, AsyncAPI, GraphQL, Protocol Buffer, OpenRPC, and Markdown.
 
 ## API Clients
 
