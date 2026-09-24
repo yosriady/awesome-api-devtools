@@ -239,6 +239,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Postman](https://www.getpostman.com/docs/postman/mock_servers/setting_up_mock): Desktop API client and mocking tool.
 - [Json-Server](https://github.com/typicode/json-server) Full fake REST API with zero coding.
 - [Mockoon](https://mockoon.com): Desktop API mocking tool.
+- [Mock Jutsu](https://github.com/altansayan/mock-jutsu-api): Open-source, self-hosted REST API for checksum-valid financial and identity test data (IBAN MOD-97, Luhn cards, TCKN, ISIN, BIC/SWIFT) — every value passes real validation, not just format-plausible.
 
 ## API Design Guides
 - [Google API Design Guide](https://cloud.google.com/apis/design/)
