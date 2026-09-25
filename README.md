@@ -255,6 +255,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Azure API Design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 ## API Publishing
+- [API.market](https://api.market): API marketplace for discovering and publishing APIs, with a hosted MCP gateway for AI agents.
 - [Mashape](https://www.mashape.com/): API Marketplace.
 
 ## API Gateways
