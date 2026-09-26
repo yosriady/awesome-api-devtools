@@ -239,6 +239,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Postman](https://www.getpostman.com/docs/postman/mock_servers/setting_up_mock): Desktop API client and mocking tool.
 - [Json-Server](https://github.com/typicode/json-server) Full fake REST API with zero coding.
 - [Mockoon](https://mockoon.com): Desktop API mocking tool.
+- [ArtemisMock](https://github.com/Evangelikcaos/ArtemisMock-app): Fully local, AI-guided real-time mock API server. Reads OpenAPI/Swagger and Prisma schemas, serves realistic synthetic data via a local Ollama model with a Faker fallback, and supports natural-language latency/error injection rules.
 
 ## API Design Guides
 - [Google API Design Guide](https://cloud.google.com/apis/design/)
