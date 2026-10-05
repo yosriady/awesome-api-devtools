@@ -205,6 +205,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [API Docs](https://api-docs.io/): Hosted public API documentation for OAS (Swagger) and RAML specs.
 - [Docbox](https://github.com/tmcw/docbox): REST API documentation generator, using Markdown.
 - [widdershins](https://github.com/Mermade/widdershins): REST API documentation generator from OpenAPI 3.0 / Swagger 2.0 / AsyncAPI 1.x / Semoasa 0.1.0 definition
+- [Sourcey](https://sourcey.com/docs): Static documentation generator for OpenAPI, MCP, Doxygen XML, godoc, rustdoc, and Markdown. Self-hosted, AGPL-3.0-only.
 - [Elements](https://github.com/stoplightio/elements): Web Components-based API documentation for OpenAPI 3.x/2.x
 
 ## API Clients
