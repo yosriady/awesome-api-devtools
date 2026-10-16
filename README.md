@@ -234,6 +234,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Prism](https://github.com/stoplightio/prism): a set of packages for API mocking and contract testing with OpenAPI v2 (formerly known as Swagger) and OpenAPI v3.x, including mock servers and a validation proxy.
 - [MockingCloud](https://mockingcloud.com): Generate full mock REST APIs with just OpenAPI yaml/json spec files.
 - [Svix Play](https://www.svix.com/play/): Easily inspect, test, and debug incoming webhooks.
+- [Openhook](https://openhook.dev): Open-source webhook inbox with hosted and self-hosted options for capturing callbacks and inspecting request headers and bodies through a browser, REST API, or MCP.
 
 ### Desktop 
 - [Postman](https://www.getpostman.com/docs/postman/mock_servers/setting_up_mock): Desktop API client and mocking tool.
