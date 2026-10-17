@@ -239,6 +239,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Postman](https://www.getpostman.com/docs/postman/mock_servers/setting_up_mock): Desktop API client and mocking tool.
 - [Json-Server](https://github.com/typicode/json-server) Full fake REST API with zero coding.
 - [Mockoon](https://mockoon.com): Desktop API mocking tool.
+- [MockForge](https://github.com/SaaSy-Solutions/mockforge): Open-source CLI and Docker mock server that serves REST APIs from OpenAPI specs, with gRPC, GraphQL, WebSocket and Kafka support.
 
 ## API Design Guides
 - [Google API Design Guide](https://cloud.google.com/apis/design/)
