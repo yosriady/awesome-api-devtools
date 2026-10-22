@@ -213,6 +213,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch): API client for REST, GraphQL, Websocket, SSE, Socket.IO and MQTT
 - [Hurl](https://github.com/Orange-OpenSource/hurl): Hurl makes it easy to work with HTML content, REST / SOAP / GraphQL APIs, or any other XML / JSON based APIs.
 - [ATAC](https://github.com/Julien-cpsn/ATAC): A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
+- [Kurlo](https://github.com/stormhop/kurlo): Open-source, local-first API client for macOS, Windows and Linux with Git-backed YAML collections, Postman script compatibility, browser CORS emulation and an MCP server
 
 ### Hosted
 - [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
