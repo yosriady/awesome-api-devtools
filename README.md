@@ -212,6 +212,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ### Open Source
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch): API client for REST, GraphQL, Websocket, SSE, Socket.IO and MQTT
 - [Hurl](https://github.com/Orange-OpenSource/hurl): Hurl makes it easy to work with HTML content, REST / SOAP / GraphQL APIs, or any other XML / JSON based APIs.
+- [Multimeter](https://github.com/mshobeyri/multimeter): Git-native REST client and API testing for VS Code/Cursor (YAML `.mmt` files, `testlight` CLI, MCP `mmt-mcp`).
 - [ATAC](https://github.com/Julien-cpsn/ATAC): A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 
 ### Hosted
