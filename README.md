@@ -206,6 +206,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Docbox](https://github.com/tmcw/docbox): REST API documentation generator, using Markdown.
 - [widdershins](https://github.com/Mermade/widdershins): REST API documentation generator from OpenAPI 3.0 / Swagger 2.0 / AsyncAPI 1.x / Semoasa 0.1.0 definition
 - [Elements](https://github.com/stoplightio/elements): Web Components-based API documentation for OpenAPI 3.x/2.x
+- [IIX APIs](https://rapidapi.com/alanluu) — small single-purpose HTTP APIs: product page extraction (JSON-LD + Shopify) and product feed validation for Google Merchant / Meta with row-level errors.
 
 ## API Clients
 
