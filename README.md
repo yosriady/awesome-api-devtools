@@ -239,6 +239,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Postman](https://www.getpostman.com/docs/postman/mock_servers/setting_up_mock): Desktop API client and mocking tool.
 - [Json-Server](https://github.com/typicode/json-server) Full fake REST API with zero coding.
 - [Mockoon](https://mockoon.com): Desktop API mocking tool.
+- [Kilobat CLI](https://github.com/seifip/kilobat-cli): macOS 14+ host-connectivity diagnostics for unreachable APIs, with JSON output and local stdio MCP (GPL-3.0-only; Xcode 16+ source build).
 
 ## API Design Guides
 - [Google API Design Guide](https://cloud.google.com/apis/design/)
