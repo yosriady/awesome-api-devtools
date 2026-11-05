@@ -240,6 +240,9 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Json-Server](https://github.com/typicode/json-server) Full fake REST API with zero coding.
 - [Mockoon](https://mockoon.com): Desktop API mocking tool.
 
+### Browser
+- [RequestFox](https://requestfox.accessisight.com/): Browser extension for Chrome and Firefox that records a page's API calls, flags failed, slow and duplicate requests, and mocks responses.
+
 ## API Design Guides
 - [Google API Design Guide](https://cloud.google.com/apis/design/)
 - [Heroku Platform HTTP API Design Guide](https://github.com/interagent/http-api-design)
