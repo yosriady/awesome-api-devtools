@@ -216,6 +216,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Hosted
 - [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
+- [KaijuConverter API Studio](https://kaijuconverter.com/api-docs): Hosted REST and MCP API workbench to inspect, convert, and test 201+ file formats.
 
 ### Desktop
 - [Postman](https://www.getpostman.com): Desktop API testing tool.
