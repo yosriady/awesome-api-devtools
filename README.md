@@ -307,6 +307,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Optic Docs](https://www.useoptic.com): Share verified-accurate OpenAPI documentation with your consumers. With Optic they can subscribe to your API and get notified when it changes.
 - [Zuplo](https://zuplo.com/): OpenAPI-Powered API Management platform for API Development, Deployment, and Documentation. Zuplo's Developer Portal integrates key-management, usage analytics, and monetization for free.
 
+- [No Stairs Please MCP](https://nostairsplease.com/mcp): Remote Streamable HTTP MCP server and developer portal for live-music venue discovery across all 50 US states, DC, and British Columbia.
+
 ## JSON Format Standards
 - [HAL](http://stateless.co/hal_specification.html)
 - [JSONAPI](http://jsonapi.org/faq/)
