@@ -339,6 +339,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ## References
 - [HTTP Status Codes Reference](https://httpstatuses.com/)
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote streamable HTTP MCP server for querying 7,000+ live music venues and booking contacts across the US and Canada.
 
 ## Contributing
 [Pull Requests](https://github.com/yosriady/api-development-tools/pulls) are most welcome!
