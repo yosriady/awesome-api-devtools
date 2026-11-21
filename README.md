@@ -239,6 +239,8 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Postman](https://www.getpostman.com/docs/postman/mock_servers/setting_up_mock): Desktop API client and mocking tool.
 - [Json-Server](https://github.com/typicode/json-server) Full fake REST API with zero coding.
 - [Mockoon](https://mockoon.com): Desktop API mocking tool.
+- [Fantastic Mock](https://fantasticmock.com/): Self-hosted mock server for HTTP, Kafka, gRPC, FIX and WebSocket (other protocols via Java plugins) that records real traffic into editable mock templates and replays requests to check every change.
+
 
 ## API Design Guides
 - [Google API Design Guide](https://cloud.google.com/apis/design/)
