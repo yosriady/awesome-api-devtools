@@ -183,6 +183,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Javascript
 - [Restangular](https://github.com/mgonto/restangular): Restangular is an AngularJS service that simplifies common GET, POST, DELETE, and UPDATE requests with a minimum of client code
+- [HyperFetch](https://github.com/BetterTyped/hyper-fetch): Type-safe TypeScript API client with caching, retries, deduplication and offline queue, plus a CLI that generates a typed SDK from an OpenAPI or Swagger schema.
 
 ### .NET
 - [Refit](https://github.com/paulcbetts/refit): The automatic type-safe REST library for .NET Core, Xamarin and .NET
