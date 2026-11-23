@@ -224,6 +224,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Paw](https://paw.cloud/): REST client for Mac.
 - [Insomnia](https://insomnia.rest/): REST API client for Mac, Windows, and Linux.
 - [httpy](https://github.com/knid/httpy): Programmable Command line HTTP client.
+- [CurlGo](https://curlgo.echovic.com/en/): Open-source API client for HTTP, SSE and WebSocket with local workspaces, curl, Postman and Bruno import, and response assertions.
 
 ## API Debugging and Mocking
 
